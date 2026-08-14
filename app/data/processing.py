@@ -11,34 +11,85 @@ def load_artists():
         return json.load(file)
 
 
-def create_node(id: str, type: str, name: str):
+def create_graph():
     return {
-        "id": id,
-        "type": type,
-        "name": name
+        "nodes": {
+            "artists": {},
+            "genres": {},
+            "labels": {},
+            "release_groups": {},
+            "areas": {}
+        },
+        "edges": []
     }
+
+
+def add_node(graph, category, id, data):
+    if id not in graph["nodes"][category]:
+        graph["nodes"][category][id] = data
+
+
+def add_edge(graph, source, target, relation, weight=None):
+
+    edge = {
+        "source": source,
+        "target": target,
+        "type": relation
+    }
+
+    if weight:
+        edge["weight"] = weight
+
+    if edge not in graph["edges"]:
+        graph["edges"].append(edge)
+
 
 
 def transform_artists(artists):
-    nodes = []
-    edges = []
+
+    graph = create_graph()
 
     for artist in artists:
 
-        # Artist node
-        artist_node = create_node(
-            artist["id"],
-            "artist",
-            artist["name"]
+        artist_id = artist["id"]
+
+        add_node(
+            graph,
+            "artists",
+            artist_id,
+            {
+                "name": artist["name"],
+                "country": artist.get("country"),
+                "type": artist.get("type")
+            }
         )
 
-        nodes.append(artist_node)
 
 
-    return {
-        "nodes": nodes,
-        "edges": edges
-    }
+        for genre in artist.get("genres", []):
+
+            genre_id = genre["id"]
+            add_node(
+                    graph,
+                    "genres",
+                    genre_id,
+                    {
+                    "name": genre["name"],
+                    "count": genre.get("count"),
+                     }
+            )
+
+            add_edge(
+                graph,
+                artist_id,
+                genre_id,
+                "HAS_GENRE",
+                genre.get("count")
+            )
+
+
+    return graph
+
 
 
 def save_graph(graph):

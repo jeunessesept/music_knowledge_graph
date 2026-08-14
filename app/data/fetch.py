@@ -91,7 +91,8 @@ def fetch_artists(names: list[str]) -> list[dict]:
 
 
 artist_names = [
-    "Aphex Twin"
+    "Aphex Twin",
+    "Autechre"
 ]
 
 
@@ -125,8 +126,8 @@ def fetch_release(release_id: str) -> dict:
 
     return response.json()
 
-release = fetch_release(
-    "91b48d23-7a5e-47d8-8484-cd06d54224ce"
-)
+# release = fetch_release(
+#     "91b48d23-7a5e-47d8-8484-cd06d54224ce"
+# )
 
-print(release)
+# print(release)

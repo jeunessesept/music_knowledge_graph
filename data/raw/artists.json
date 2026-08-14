@@ -1,177 +1,80 @@
 [
     {
-        "tags": [
-            {
-                "name": "acid breaks",
-                "count": 5
-            },
-            {
-                "name": "acid techno",
-                "count": 5
-            },
-            {
-                "count": 22,
-                "name": "ambient"
-            },
-            {
-                "count": 14,
-                "name": "ambient techno"
-            },
-            {
-                "count": 1,
-                "name": "bleep techno"
-            },
-            {
-                "name": "breakbeat",
-                "count": 1
-            },
-            {
-                "name": "breakcore",
-                "count": 1
-            },
-            {
-                "count": 3,
-                "name": "british"
-            },
-            {
-                "count": 7,
-                "name": "drill and bass"
-            },
-            {
-                "count": 3,
-                "name": "electroacoustic"
-            },
-            {
-                "count": 30,
-                "name": "electronic"
-            },
-            {
-                "count": 5,
-                "name": "electronica"
-            },
-            {
-                "count": 18,
-                "name": "experimental"
-            },
-            {
-                "count": 26,
-                "name": "idm"
-            },
-            {
-                "name": "instrumental",
-                "count": 2
-            },
-            {
-                "name": "progressive techno",
-                "count": 2
-            },
-            {
-                "count": 4,
-                "name": "techno"
-            }
-        ],
-        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "gender": "Male",
         "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
-        "type": "Person",
-        "relations": [
-            {
-                "end": null,
-                "label": {
-                    "sort-name": "Warp",
-                    "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
-                    "disambiguation": "UK independent label",
-                    "name": "Warp",
-                    "label-code": 2070,
-                    "type": "Original Production",
-                    "id": "46f0f4cd-8aab-4b33-b698-f459faf64190"
-                },
-                "attribute-ids": {},
-                "begin": null,
-                "type": "recording contract",
-                "direction": "forward",
-                "target-type": "label",
-                "ended": false,
-                "type-id": "b336d682-592f-4486-9f45-3d5d59895bdc",
-                "target-credit": "",
-                "attribute-values": {},
-                "attributes": [],
-                "source-credit": ""
-            }
-        ],
         "release-groups": [
             {
-                "genres": [
-                    {
-                        "name": "acid techno",
-                        "disambiguation": "",
-                        "id": "ba64013e-27bb-4f14-a530-8d25b296e0da",
-                        "count": 1
-                    },
-                    {
-                        "disambiguation": "",
-                        "id": "608b0471-7531-4854-a348-e698c69cb699",
-                        "count": 11,
-                        "name": "ambient"
-                    },
-                    {
-                        "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
-                        "count": 12,
-                        "disambiguation": "",
-                        "name": "ambient techno"
-                    },
-                    {
-                        "disambiguation": "",
-                        "count": 9,
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "name": "electronic"
-                    },
-                    {
-                        "count": 10,
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                        "disambiguation": "",
-                        "name": "idm"
-                    }
-                ],
-                "secondary-types": [],
-                "disambiguation": "",
-                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
-                "primary-type": "Album",
-                "id": "6842c81d-ea77-3dfd-abf7-4323add3f4d4",
-                "title": "Selected Ambient Works 85–92",
-                "first-release-date": "1992-11-01",
                 "tags": [
                     {
                         "name": "acid techno",
                         "count": 1
                     },
                     {
-                        "count": 11,
-                        "name": "ambient"
+                        "name": "ambient",
+                        "count": 11
                     },
                     {
-                        "count": 12,
-                        "name": "ambient techno"
+                        "name": "ambient techno",
+                        "count": 12
                     },
                     {
                         "name": "electronic",
                         "count": 9
                     },
                     {
-                        "count": 10,
-                        "name": "idm"
+                        "name": "idm",
+                        "count": 10
                     }
                 ],
+                "title": "Selected Ambient Works 85–92",
+                "disambiguation": "",
+                "genres": [
+                    {
+                        "count": 1,
+                        "name": "acid techno",
+                        "id": "ba64013e-27bb-4f14-a530-8d25b296e0da",
+                        "disambiguation": ""
+                    },
+                    {
+                        "id": "608b0471-7531-4854-a348-e698c69cb699",
+                        "name": "ambient",
+                        "count": 11,
+                        "disambiguation": ""
+                    },
+                    {
+                        "disambiguation": "",
+                        "count": 12,
+                        "name": "ambient techno",
+                        "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e"
+                    },
+                    {
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "name": "electronic",
+                        "count": 9,
+                        "disambiguation": ""
+                    },
+                    {
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 10,
+                        "name": "idm",
+                        "disambiguation": ""
+                    }
+                ],
+                "id": "6842c81d-ea77-3dfd-abf7-4323add3f4d4",
+                "primary-type": "Album",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "secondary-types": [],
+                "first-release-date": "1992-11-01",
                 "secondary-type-ids": []
             },
             {
-                "secondary-type-ids": [],
-                "first-release-date": "1994-03-07",
-                "id": "0e7a233f-81f8-3e63-ad07-6cdfe2faecc3",
+                "disambiguation": "",
                 "title": "Selected Ambient Works, Volume II",
                 "tags": [
                     {
-                        "count": 1,
-                        "name": "1–4 wochen"
+                        "name": "1–4 wochen",
+                        "count": 1
                     },
                     {
                         "name": "ambient",
@@ -182,87 +85,91 @@
                         "count": 3
                     },
                     {
-                        "count": 5,
-                        "name": "electronic"
+                        "name": "electronic",
+                        "count": 5
                     },
                     {
-                        "count": 1,
-                        "name": "english"
+                        "name": "english",
+                        "count": 1
                     },
                     {
                         "count": 9,
                         "name": "experimental"
                     },
                     {
-                        "name": "industrial",
-                        "count": 1
+                        "count": 1,
+                        "name": "industrial"
                     },
                     {
                         "count": 1,
                         "name": "offizielle charts"
                     }
                 ],
-                "primary-type": "Album",
-                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
-                "disambiguation": "",
+                "first-release-date": "1994-03-07",
+                "secondary-type-ids": [],
                 "secondary-types": [],
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "id": "0e7a233f-81f8-3e63-ad07-6cdfe2faecc3",
+                "primary-type": "Album",
                 "genres": [
                     {
-                        "disambiguation": "",
                         "id": "608b0471-7531-4854-a348-e698c69cb699",
                         "count": 17,
-                        "name": "ambient"
-                    },
-                    {
-                        "name": "drone",
-                        "disambiguation": "",
-                        "id": "75c5866f-0212-4c02-9650-de475dda157e",
-                        "count": 3
-                    },
-                    {
-                        "name": "electronic",
-                        "count": 5,
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "name": "ambient",
                         "disambiguation": ""
                     },
                     {
-                        "name": "experimental",
-                        "disambiguation": "",
-                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
-                        "count": 9
+                        "id": "75c5866f-0212-4c02-9650-de475dda157e",
+                        "count": 3,
+                        "name": "drone",
+                        "disambiguation": ""
                     },
                     {
                         "disambiguation": "",
-                        "count": 1,
+                        "name": "electronic",
+                        "count": 5,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 9,
+                        "name": "experimental"
+                    },
+                    {
+                        "disambiguation": "",
                         "id": "060beed7-e597-4c42-8e25-5bf8bd5dd3cb",
-                        "name": "industrial"
+                        "name": "industrial",
+                        "count": 1
                     }
                 ]
             },
             {
+                "id": "79c6d3be-251c-3644-b07e-09d738e15a84",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type": "Album",
                 "genres": [
                     {
-                        "name": "electronic",
                         "disambiguation": "",
                         "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "count": 1
+                        "count": 1,
+                        "name": "electronic"
                     },
                     {
-                        "disambiguation": "",
                         "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
                         "count": 7,
-                        "name": "idm"
+                        "name": "idm",
+                        "disambiguation": ""
                     }
                 ],
-                "disambiguation": "",
-                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
-                "secondary-types": [],
-                "primary-type": "Album",
                 "secondary-type-ids": [],
+                "first-release-date": "1995-04-24",
+                "secondary-types": [],
+                "title": "…I Care Because You Do",
                 "tags": [
                     {
-                        "name": "acid",
-                        "count": 1
+                        "count": 1,
+                        "name": "acid"
                     },
                     {
                         "name": "electronic",
@@ -273,72 +180,17 @@
                         "count": 7
                     }
                 ],
-                "id": "79c6d3be-251c-3644-b07e-09d738e15a84",
-                "first-release-date": "1995-04-24",
-                "title": "…I Care Because You Do"
+                "disambiguation": ""
             },
             {
-                "secondary-types": [],
-                "disambiguation": "",
-                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
-                "genres": [
-                    {
-                        "disambiguation": "",
-                        "count": 6,
-                        "id": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f",
-                        "name": "drill and bass"
-                    },
-                    {
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "count": 6,
-                        "disambiguation": "",
-                        "name": "electronic"
-                    },
-                    {
-                        "name": "electronica",
-                        "disambiguation": "",
-                        "count": 1,
-                        "id": "53a3cea3-17af-4421-a07a-5824b540aeb5"
-                    },
-                    {
-                        "name": "experimental",
-                        "disambiguation": "",
-                        "count": 2,
-                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99"
-                    },
-                    {
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                        "count": 10,
-                        "disambiguation": "",
-                        "name": "idm"
-                    },
-                    {
-                        "disambiguation": "",
-                        "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
-                        "count": 1,
-                        "name": "instrumental"
-                    },
-                    {
-                        "count": 1,
-                        "id": "ea9b6ec3-fc8f-4c55-b2f9-19bd4511a986",
-                        "disambiguation": "",
-                        "name": "jungle"
-                    },
-                    {
-                        "name": "progressive",
-                        "disambiguation": "",
-                        "id": "8d275a8d-154a-4bcb-8b5a-f56306ad4bcb",
-                        "count": 1
-                    }
-                ],
                 "tags": [
                     {
-                        "name": "angular",
-                        "count": 1
+                        "count": 1,
+                        "name": "angular"
                     },
                     {
-                        "name": "atmospheric",
-                        "count": 1
+                        "count": 1,
+                        "name": "atmospheric"
                     },
                     {
                         "name": "bittersweet",
@@ -353,8 +205,8 @@
                         "name": "chaotic"
                     },
                     {
-                        "count": 1,
-                        "name": "childhood"
+                        "name": "childhood",
+                        "count": 1
                     },
                     {
                         "name": "complex",
@@ -369,24 +221,24 @@
                         "count": 1
                     },
                     {
-                        "name": "drill and bass",
-                        "count": 6
-                    },
-                    {
-                        "count": 1,
-                        "name": "eclectic"
-                    },
-                    {
                         "count": 6,
-                        "name": "electronic"
+                        "name": "drill and bass"
+                    },
+                    {
+                        "name": "eclectic",
+                        "count": 1
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 6
                     },
                     {
                         "name": "electronica",
                         "count": 1
                     },
                     {
-                        "name": "energetic",
-                        "count": 1
+                        "count": 1,
+                        "name": "energetic"
                     },
                     {
                         "count": 2,
@@ -397,8 +249,8 @@
                         "name": "idm"
                     },
                     {
-                        "name": "instrumental",
-                        "count": 1
+                        "count": 1,
+                        "name": "instrumental"
                     },
                     {
                         "name": "jungle",
@@ -429,12 +281,12 @@
                         "name": "nostalgia"
                     },
                     {
-                        "name": "playful",
-                        "count": 1
+                        "count": 1,
+                        "name": "playful"
                     },
                     {
-                        "name": "polyphonic",
-                        "count": 1
+                        "count": 1,
+                        "name": "polyphonic"
                     },
                     {
                         "count": 1,
@@ -445,20 +297,20 @@
                         "count": 1
                     },
                     {
-                        "count": 1,
-                        "name": "punchy"
+                        "name": "punchy",
+                        "count": 1
                     },
                     {
-                        "count": 1,
-                        "name": "quirky"
+                        "name": "quirky",
+                        "count": 1
                     },
                     {
                         "count": 1,
                         "name": "rhythmic"
                     },
                     {
-                        "name": "sampling",
-                        "count": 1
+                        "count": 1,
+                        "name": "sampling"
                     },
                     {
                         "count": 1,
@@ -473,70 +325,125 @@
                         "name": "uplifting"
                     },
                     {
-                        "name": "warm",
-                        "count": 1
+                        "count": 1,
+                        "name": "warm"
                     }
                 ],
                 "title": "Richard D. James Album",
+                "disambiguation": "",
+                "genres": [
+                    {
+                        "disambiguation": "",
+                        "id": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f",
+                        "count": 6,
+                        "name": "drill and bass"
+                    },
+                    {
+                        "count": 6,
+                        "name": "electronic",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "disambiguation": ""
+                    },
+                    {
+                        "name": "electronica",
+                        "count": 1,
+                        "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                        "disambiguation": ""
+                    },
+                    {
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 2,
+                        "name": "experimental",
+                        "disambiguation": ""
+                    },
+                    {
+                        "disambiguation": "",
+                        "name": "idm",
+                        "count": 10,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9"
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+                        "name": "instrumental",
+                        "count": 1
+                    },
+                    {
+                        "id": "ea9b6ec3-fc8f-4c55-b2f9-19bd4511a986",
+                        "count": 1,
+                        "name": "jungle",
+                        "disambiguation": ""
+                    },
+                    {
+                        "disambiguation": "",
+                        "count": 1,
+                        "name": "progressive",
+                        "id": "8d275a8d-154a-4bcb-8b5a-f56306ad4bcb"
+                    }
+                ],
                 "id": "84d79dbe-7ac1-3ebc-9b36-238ddfb8229c",
-                "first-release-date": "1996-11-04",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type": "Album",
+                "secondary-types": [],
                 "secondary-type-ids": [],
-                "primary-type": "Album"
+                "first-release-date": "1996-11-04"
             },
             {
+                "id": "87f1a316-510f-36c3-9f2c-38230b0e56e0",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type": "Album",
                 "genres": [
                     {
                         "disambiguation": "",
                         "count": 1,
-                        "id": "ba64013e-27bb-4f14-a530-8d25b296e0da",
-                        "name": "acid techno"
+                        "name": "acid techno",
+                        "id": "ba64013e-27bb-4f14-a530-8d25b296e0da"
                     },
                     {
-                        "count": 1,
                         "id": "8aad8a03-be38-48e4-aa43-5ca0f826c569",
-                        "disambiguation": "",
-                        "name": "breakcore"
+                        "name": "breakcore",
+                        "count": 1,
+                        "disambiguation": ""
                     },
                     {
-                        "id": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f",
+                        "name": "drill and bass",
                         "count": 4,
-                        "disambiguation": "",
-                        "name": "drill and bass"
+                        "id": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f",
+                        "disambiguation": ""
                     },
                     {
-                        "name": "electroacoustic",
+                        "disambiguation": "",
                         "id": "463066ef-ac54-4dae-9c83-73824c2c8432",
-                        "count": 2,
-                        "disambiguation": ""
+                        "name": "electroacoustic",
+                        "count": 2
                     },
                     {
-                        "disambiguation": "",
-                        "count": 9,
                         "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                        "name": "idm"
-                    },
-                    {
-                        "name": "impressionism",
-                        "count": 1,
-                        "id": "792e652b-fbf6-4c18-8cc9-48ce80e96e79",
+                        "count": 9,
+                        "name": "idm",
                         "disambiguation": ""
                     },
                     {
-                        "id": "e328c306-8e35-46d2-93c3-623412ec7c13",
-                        "count": 1,
                         "disambiguation": "",
-                        "name": "modern classical"
+                        "id": "792e652b-fbf6-4c18-8cc9-48ce80e96e79",
+                        "count": 1,
+                        "name": "impressionism"
+                    },
+                    {
+                        "disambiguation": "",
+                        "name": "modern classical",
+                        "count": 1,
+                        "id": "e328c306-8e35-46d2-93c3-623412ec7c13"
                     }
                 ],
-                "disambiguation": "",
-                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
-                "secondary-types": [],
-                "primary-type": "Album",
                 "secondary-type-ids": [],
+                "first-release-date": "2001-10-22",
+                "secondary-types": [],
+                "title": "Drukqs",
                 "tags": [
                     {
-                        "name": "acid techno",
-                        "count": 1
+                        "count": 1,
+                        "name": "acid techno"
                     },
                     {
                         "name": "braindance",
@@ -547,68 +454,34 @@
                         "name": "breakcore"
                     },
                     {
-                        "name": "dance and electronica",
-                        "count": 1
+                        "count": 1,
+                        "name": "dance and electronica"
                     },
                     {
                         "name": "drill and bass",
                         "count": 4
                     },
                     {
-                        "count": 2,
-                        "name": "electroacoustic"
+                        "name": "electroacoustic",
+                        "count": 2
                     },
                     {
-                        "count": 9,
-                        "name": "idm"
+                        "name": "idm",
+                        "count": 9
                     },
                     {
                         "name": "impressionism",
                         "count": 1
                     },
                     {
-                        "count": 1,
-                        "name": "modern classical"
+                        "name": "modern classical",
+                        "count": 1
                     }
                 ],
-                "id": "87f1a316-510f-36c3-9f2c-38230b0e56e0",
-                "first-release-date": "2001-10-22",
-                "title": "Drukqs"
+                "disambiguation": ""
             },
             {
-                "genres": [
-                    {
-                        "name": "acid breaks",
-                        "disambiguation": "",
-                        "count": 1,
-                        "id": "c755b4da-de34-4d64-909a-9447833315ce"
-                    },
-                    {
-                        "count": 1,
-                        "id": "ba64013e-27bb-4f14-a530-8d25b296e0da",
-                        "disambiguation": "",
-                        "name": "acid techno"
-                    },
-                    {
-                        "disambiguation": "",
-                        "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
-                        "count": 2,
-                        "name": "ambient techno"
-                    },
-                    {
-                        "name": "idm",
-                        "count": 6,
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                        "disambiguation": ""
-                    }
-                ],
-                "secondary-types": [],
-                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
-                "disambiguation": "",
-                "primary-type": "Album",
                 "title": "Syro",
-                "id": "11a7c281-a260-4f77-a1d5-1ff2d4c917eb",
-                "first-release-date": "2014-09-19",
                 "tags": [
                     {
                         "count": 1,
@@ -619,23 +492,50 @@
                         "count": 1
                     },
                     {
-                        "name": "ambient techno",
-                        "count": 2
+                        "count": 2,
+                        "name": "ambient techno"
                     },
                     {
                         "name": "idm",
                         "count": 6
                     }
                 ],
-                "secondary-type-ids": []
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "id": "11a7c281-a260-4f77-a1d5-1ff2d4c917eb",
+                "primary-type": "Album",
+                "genres": [
+                    {
+                        "count": 1,
+                        "name": "acid breaks",
+                        "id": "c755b4da-de34-4d64-909a-9447833315ce",
+                        "disambiguation": ""
+                    },
+                    {
+                        "name": "acid techno",
+                        "count": 1,
+                        "id": "ba64013e-27bb-4f14-a530-8d25b296e0da",
+                        "disambiguation": ""
+                    },
+                    {
+                        "disambiguation": "",
+                        "count": 2,
+                        "name": "ambient techno",
+                        "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e"
+                    },
+                    {
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "name": "idm",
+                        "count": 6,
+                        "disambiguation": ""
+                    }
+                ],
+                "secondary-type-ids": [],
+                "first-release-date": "2014-09-19",
+                "secondary-types": []
             },
             {
-                "secondary-type-ids": [
-                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
-                ],
                 "title": "Classics",
-                "id": "f1c51bbf-407e-3f1c-85a1-aa44a432048f",
-                "first-release-date": "1994-12",
                 "tags": [
                     {
                         "count": 1,
@@ -646,67 +546,70 @@
                         "name": "acid techno"
                     },
                     {
-                        "name": "electronic",
-                        "count": 8
+                        "count": 8,
+                        "name": "electronic"
                     },
                     {
-                        "count": 1,
-                        "name": "hardcore"
+                        "name": "hardcore",
+                        "count": 1
                     },
                     {
-                        "name": "idm",
-                        "count": 2
+                        "count": 2,
+                        "name": "idm"
                     },
                     {
                         "count": 1,
                         "name": "premastered on compact cassette"
                     },
                     {
-                        "count": 1,
-                        "name": "r and s records"
+                        "name": "r and s records",
+                        "count": 1
                     },
                     {
-                        "count": 5,
-                        "name": "techno"
+                        "name": "techno",
+                        "count": 5
                     }
                 ],
-                "primary-type": "Album",
-                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
                 "disambiguation": "",
-                "secondary-types": [
-                    "Compilation"
-                ],
+                "id": "f1c51bbf-407e-3f1c-85a1-aa44a432048f",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type": "Album",
                 "genres": [
                     {
                         "disambiguation": "",
                         "id": "ba64013e-27bb-4f14-a530-8d25b296e0da",
-                        "count": 1,
-                        "name": "acid techno"
+                        "name": "acid techno",
+                        "count": 1
                     },
                     {
+                        "disambiguation": "",
                         "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "count": 8,
-                        "disambiguation": "",
-                        "name": "electronic"
+                        "name": "electronic",
+                        "count": 8
                     },
                     {
                         "disambiguation": "",
-                        "count": 2,
                         "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 2,
                         "name": "idm"
                     },
                     {
-                        "name": "techno",
                         "disambiguation": "",
                         "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
-                        "count": 5
+                        "count": 5,
+                        "name": "techno"
                     }
+                ],
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ],
+                "first-release-date": "1994-12",
+                "secondary-types": [
+                    "Compilation"
                 ]
             },
             {
-                "primary-type": "Album",
-                "first-release-date": "1996-11-30",
-                "id": "56380efe-da91-3508-bbe3-18b01fedee3a",
+                "disambiguation": "",
                 "title": "51/13 Aphex Singles Collection",
                 "tags": [
                     {
@@ -714,134 +617,133 @@
                         "count": 1
                     },
                     {
-                        "name": "ambient",
-                        "count": 2
+                        "count": 2,
+                        "name": "ambient"
                     },
                     {
                         "name": "electronic",
                         "count": 2
                     },
                     {
-                        "name": "idm",
-                        "count": 3
+                        "count": 3,
+                        "name": "idm"
                     }
                 ],
                 "secondary-type-ids": [
                     "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
                 ],
-                "genres": [
-                    {
-                        "id": "608b0471-7531-4854-a348-e698c69cb699",
-                        "count": 2,
-                        "disambiguation": "",
-                        "name": "ambient"
-                    },
-                    {
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "count": 2,
-                        "disambiguation": "",
-                        "name": "electronic"
-                    },
-                    {
-                        "name": "idm",
-                        "disambiguation": "",
-                        "count": 3,
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9"
-                    }
-                ],
+                "first-release-date": "1996-11-30",
                 "secondary-types": [
                     "Compilation"
                 ],
+                "id": "56380efe-da91-3508-bbe3-18b01fedee3a",
+                "primary-type": "Album",
                 "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
-                "disambiguation": ""
+                "genres": [
+                    {
+                        "disambiguation": "",
+                        "count": 2,
+                        "name": "ambient",
+                        "id": "608b0471-7531-4854-a348-e698c69cb699"
+                    },
+                    {
+                        "disambiguation": "",
+                        "name": "electronic",
+                        "count": 2,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "name": "idm",
+                        "count": 3
+                    }
+                ]
             },
             {
-                "secondary-types": [
-                    "Compilation"
-                ],
-                "disambiguation": "",
-                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
                 "genres": [
                     {
-                        "disambiguation": "",
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
                         "count": 1,
-                        "name": "electronic"
+                        "name": "electronic",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "disambiguation": ""
                     },
                     {
                         "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
                         "count": 1,
-                        "disambiguation": "",
-                        "name": "experimental"
+                        "name": "experimental",
+                        "disambiguation": ""
                     },
                     {
-                        "disambiguation": "",
-                        "count": 1,
                         "id": "18b010d7-7d85-4445-a4a8-1889a4688308",
-                        "name": "glitch"
+                        "name": "glitch",
+                        "count": 1,
+                        "disambiguation": ""
                     },
                     {
-                        "disambiguation": "",
                         "id": "89c7c9b3-215e-482f-bce3-3219ffd0a222",
+                        "name": "noise",
                         "count": 1,
-                        "name": "noise"
+                        "disambiguation": ""
                     }
+                ],
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "id": "ddf19b2d-1e43-4829-90bc-fb10039e9e3e",
+                "primary-type": "Album",
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "first-release-date": "2017-07-29",
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
                 ],
                 "tags": [
                     {
-                        "count": 1,
-                        "name": "electronic"
-                    },
-                    {
-                        "count": 1,
-                        "name": "experimental"
-                    },
-                    {
-                        "name": "glitch",
+                        "name": "electronic",
                         "count": 1
                     },
                     {
                         "count": 1,
+                        "name": "experimental"
+                    },
+                    {
+                        "count": 1,
+                        "name": "glitch"
+                    },
+                    {
+                        "count": 1,
                         "name": "noise"
                     }
                 ],
-                "first-release-date": "2017-07-29",
-                "id": "ddf19b2d-1e43-4829-90bc-fb10039e9e3e",
                 "title": "Aphex Mt. Fuji 2017",
-                "secondary-type-ids": [
-                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
-                ],
-                "primary-type": "Album"
+                "disambiguation": ""
             },
             {
                 "disambiguation": "",
-                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
-                "secondary-types": [
-                    "Compilation"
-                ],
-                "genres": [],
+                "title": "Bristol 02.09.23",
+                "tags": [],
+                "first-release-date": "2023-09-02",
                 "secondary-type-ids": [
                     "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
                 ],
+                "secondary-types": [
+                    "Compilation"
+                ],
                 "id": "d980dcd3-02c6-4230-ba21-85ce6f4b872f",
-                "title": "Bristol 02.09.23",
-                "first-release-date": "2023-09-02",
-                "tags": [],
-                "primary-type": "Album"
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type": "Album",
+                "genres": []
             },
             {
-                "primary-type": "Album",
                 "title": "Music From the Merch Desk (2016 – 2023)",
-                "id": "d2ebf885-87e0-4add-abc6-726d1a4a1d5a",
-                "first-release-date": "2024-12-17",
                 "tags": [
                     {
                         "name": "acid",
                         "count": 1
                     },
                     {
-                        "name": "ambient",
-                        "count": 1
+                        "count": 1,
+                        "name": "ambient"
                     },
                     {
                         "count": 1,
@@ -852,89 +754,95 @@
                         "count": 2
                     },
                     {
-                        "name": "idm",
-                        "count": 1
+                        "count": 1,
+                        "name": "idm"
                     },
                     {
                         "count": 1,
                         "name": "techno"
                     }
                 ],
-                "secondary-type-ids": [
-                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
-                ],
+                "disambiguation": "",
+                "primary-type": "Album",
+                "id": "d2ebf885-87e0-4add-abc6-726d1a4a1d5a",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
                 "genres": [
                     {
-                        "disambiguation": "",
-                        "id": "608b0471-7531-4854-a348-e698c69cb699",
                         "count": 1,
-                        "name": "ambient"
+                        "name": "ambient",
+                        "id": "608b0471-7531-4854-a348-e698c69cb699",
+                        "disambiguation": ""
                     },
                     {
-                        "name": "breakbeat",
                         "count": 1,
+                        "name": "breakbeat",
                         "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
                         "disambiguation": ""
                     },
                     {
-                        "name": "electronic",
                         "disambiguation": "",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
                         "count": 2,
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                        "name": "electronic"
                     },
                     {
-                        "name": "idm",
                         "disambiguation": "",
                         "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                        "count": 1
+                        "count": 1,
+                        "name": "idm"
                     },
                     {
-                        "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
                         "count": 1,
-                        "disambiguation": "",
-                        "name": "techno"
+                        "name": "techno",
+                        "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+                        "disambiguation": ""
                     }
+                ],
+                "first-release-date": "2024-12-17",
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
                 ],
                 "secondary-types": [
                     "Compilation"
-                ],
-                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
-                "disambiguation": ""
+                ]
             },
             {
-                "primary-type": "Album",
+                "disambiguation": "",
                 "tags": [
                     {
                         "count": 5,
                         "name": "acid"
                     },
                     {
-                        "name": "acid techno",
-                        "count": 1
+                        "count": 1,
+                        "name": "acid techno"
                     },
                     {
-                        "count": 1,
-                        "name": "ambient techno"
+                        "name": "ambient techno",
+                        "count": 1
                     },
                     {
                         "name": "drill and bass",
                         "count": 1
                     },
                     {
-                        "count": 3,
-                        "name": "electronic"
+                        "name": "electronic",
+                        "count": 3
                     },
                     {
-                        "count": 1,
-                        "name": "experimental"
+                        "name": "experimental",
+                        "count": 1
                     },
                     {
-                        "count": 4,
-                        "name": "idm"
+                        "name": "idm",
+                        "count": 4
                     }
                 ],
                 "title": "26 Mixes for Cash",
-                "id": "6ca8f556-be81-38a1-be3c-a5b41c24c107",
+                "secondary-types": [
+                    "Compilation",
+                    "Remix"
+                ],
                 "first-release-date": "2003-03-19",
                 "secondary-type-ids": [
                     "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
@@ -942,68 +850,95 @@
                 ],
                 "genres": [
                     {
-                        "name": "acid techno",
-                        "disambiguation": "",
                         "id": "ba64013e-27bb-4f14-a530-8d25b296e0da",
-                        "count": 1
-                    },
-                    {
-                        "disambiguation": "",
                         "count": 1,
-                        "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
-                        "name": "ambient techno"
-                    },
-                    {
-                        "disambiguation": "",
-                        "id": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f",
-                        "count": 1,
-                        "name": "drill and bass"
-                    },
-                    {
-                        "count": 3,
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "disambiguation": "",
-                        "name": "electronic"
-                    },
-                    {
-                        "name": "experimental",
-                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
-                        "count": 1,
+                        "name": "acid techno",
                         "disambiguation": ""
                     },
                     {
                         "disambiguation": "",
-                        "count": 4,
+                        "count": 1,
+                        "name": "ambient techno",
+                        "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e"
+                    },
+                    {
+                        "disambiguation": "",
+                        "count": 1,
+                        "name": "drill and bass",
+                        "id": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f"
+                    },
+                    {
+                        "disambiguation": "",
+                        "name": "electronic",
+                        "count": 3,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 1,
+                        "name": "experimental"
+                    },
+                    {
+                        "disambiguation": "",
                         "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                        "name": "idm"
+                        "name": "idm",
+                        "count": 4
                     }
                 ],
-                "secondary-types": [
-                    "Compilation",
-                    "Remix"
-                ],
-                "disambiguation": "",
+                "id": "6ca8f556-be81-38a1-be3c-a5b41c24c107",
+                "primary-type": "Album",
                 "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
             },
             {
-                "primary-type": "EP",
-                "secondary-type-ids": [],
-                "tags": [
+                "genres": [
                     {
+                        "disambiguation": "",
                         "count": 2,
-                        "name": "abstract"
+                        "name": "breaks",
+                        "id": "63eddc75-dbad-4a05-a365-e30d1e87bca8"
                     },
                     {
+                        "name": "electronic",
                         "count": 2,
-                        "name": "acid"
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "disambiguation": ""
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 1,
+                        "name": "experimental"
+                    },
+                    {
+                        "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+                        "name": "techno",
+                        "count": 3,
+                        "disambiguation": ""
+                    }
+                ],
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "id": "119f30e7-ee99-3186-adb6-daf1f4ca0b3f",
+                "primary-type": "EP",
+                "secondary-types": [],
+                "secondary-type-ids": [],
+                "first-release-date": "1992-01",
+                "tags": [
+                    {
+                        "name": "abstract",
+                        "count": 2
+                    },
+                    {
+                        "name": "acid",
+                        "count": 2
                     },
                     {
                         "name": "breaks",
                         "count": 2
                     },
                     {
-                        "count": 2,
-                        "name": "electronic"
+                        "name": "electronic",
+                        "count": 2
                     },
                     {
                         "count": 1,
@@ -1014,40 +949,35 @@
                         "name": "techno"
                     }
                 ],
-                "id": "119f30e7-ee99-3186-adb6-daf1f4ca0b3f",
-                "first-release-date": "1992-01",
                 "title": "Digeridoo",
+                "disambiguation": ""
+            },
+            {
                 "genres": [
                     {
-                        "name": "breaks",
+                        "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
                         "count": 2,
-                        "id": "63eddc75-dbad-4a05-a365-e30d1e87bca8",
+                        "name": "breakbeat",
                         "disambiguation": ""
                     },
                     {
                         "name": "electronic",
-                        "disambiguation": "",
+                        "count": 2,
                         "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "count": 2
-                    },
-                    {
-                        "name": "experimental",
-                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
-                        "count": 1,
                         "disambiguation": ""
                     },
                     {
-                        "name": "techno",
                         "disambiguation": "",
                         "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
-                        "count": 3
+                        "count": 2,
+                        "name": "techno"
                     }
                 ],
+                "id": "506727ce-f8fe-3430-a4be-3553cfe1a0af",
                 "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
-                "disambiguation": "",
-                "secondary-types": []
-            },
-            {
+                "primary-type": "EP",
+                "secondary-types": [],
+                "first-release-date": "1992-06-01",
                 "secondary-type-ids": [],
                 "tags": [
                     {
@@ -1059,48 +989,22 @@
                         "count": 2
                     },
                     {
-                        "name": "chill out",
-                        "count": 1
+                        "count": 1,
+                        "name": "chill out"
                     },
                     {
-                        "name": "electronic",
-                        "count": 2
+                        "count": 2,
+                        "name": "electronic"
                     },
                     {
-                        "name": "techno",
-                        "count": 2
+                        "count": 2,
+                        "name": "techno"
                     }
                 ],
-                "id": "506727ce-f8fe-3430-a4be-3553cfe1a0af",
-                "first-release-date": "1992-06-01",
                 "title": "Xylem Tube EP",
-                "primary-type": "EP",
-                "disambiguation": "",
-                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
-                "secondary-types": [],
-                "genres": [
-                    {
-                        "disambiguation": "",
-                        "count": 2,
-                        "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
-                        "name": "breakbeat"
-                    },
-                    {
-                        "name": "electronic",
-                        "count": 2,
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "disambiguation": ""
-                    },
-                    {
-                        "name": "techno",
-                        "disambiguation": "",
-                        "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
-                        "count": 2
-                    }
-                ]
+                "disambiguation": ""
             },
             {
-                "secondary-type-ids": [],
                 "tags": [
                     {
                         "name": "abstract",
@@ -1111,12 +1015,12 @@
                         "name": "acid"
                     },
                     {
-                        "name": "ambient",
-                        "count": 1
+                        "count": 1,
+                        "name": "ambient"
                     },
                     {
-                        "name": "electronic",
-                        "count": 3
+                        "count": 3,
+                        "name": "electronic"
                     },
                     {
                         "name": "experimental",
@@ -1127,56 +1031,58 @@
                         "name": "idm"
                     },
                     {
-                        "name": "techno",
-                        "count": 2
+                        "count": 2,
+                        "name": "techno"
                     }
                 ],
-                "first-release-date": "1993-11-15",
-                "id": "b1c01b4b-2548-3dee-9fa4-8d7907eee131",
                 "title": "On",
-                "primary-type": "EP",
                 "disambiguation": "",
-                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
-                "secondary-types": [],
                 "genres": [
                     {
-                        "name": "ambient",
                         "disambiguation": "",
-                        "count": 1,
-                        "id": "608b0471-7531-4854-a348-e698c69cb699"
+                        "id": "608b0471-7531-4854-a348-e698c69cb699",
+                        "name": "ambient",
+                        "count": 1
                     },
                     {
                         "disambiguation": "",
-                        "count": 3,
                         "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "name": "electronic"
+                        "name": "electronic",
+                        "count": 3
                     },
                     {
                         "disambiguation": "",
                         "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
-                        "count": 1,
-                        "name": "experimental"
+                        "name": "experimental",
+                        "count": 1
                     },
                     {
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                        "count": 3,
                         "disambiguation": "",
-                        "name": "idm"
+                        "name": "idm",
+                        "count": 3,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9"
                     },
                     {
-                        "name": "techno",
                         "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
                         "count": 2,
+                        "name": "techno",
                         "disambiguation": ""
                     }
-                ]
+                ],
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "id": "b1c01b4b-2548-3dee-9fa4-8d7907eee131",
+                "primary-type": "EP",
+                "secondary-types": [],
+                "secondary-type-ids": [],
+                "first-release-date": "1993-11-15"
             },
             {
-                "primary-type": "EP",
+                "disambiguation": "",
+                "title": "Ventolin E.P",
                 "tags": [
                     {
-                        "count": 4,
-                        "name": "abstract"
+                        "name": "abstract",
+                        "count": 4
                     },
                     {
                         "count": 1,
@@ -1187,109 +1093,129 @@
                         "name": "electronic"
                     },
                     {
-                        "name": "experimental",
-                        "count": 2
-                    },
-                    {
-                        "name": "idm",
-                        "count": 5
-                    }
-                ],
-                "title": "Ventolin E.P",
-                "id": "44758512-d6d1-398e-b8b1-11aa66d2bfdb",
-                "first-release-date": "1995-03-27",
-                "secondary-type-ids": [],
-                "genres": [
-                    {
-                        "name": "downtempo",
-                        "disambiguation": "",
-                        "count": 1,
-                        "id": "cc38aba3-48ed-439a-83b9-f81a34a66598"
-                    },
-                    {
-                        "count": 3,
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "disambiguation": "",
-                        "name": "electronic"
-                    },
-                    {
-                        "disambiguation": "",
-                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
                         "count": 2,
                         "name": "experimental"
                     },
                     {
-                        "disambiguation": "",
                         "count": 5,
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
                         "name": "idm"
                     }
                 ],
+                "secondary-type-ids": [],
+                "first-release-date": "1995-03-27",
                 "secondary-types": [],
-                "disambiguation": "",
-                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf"
-            },
-            {
-                "tags": [
+                "id": "44758512-d6d1-398e-b8b1-11aa66d2bfdb",
+                "primary-type": "EP",
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "genres": [
                     {
+                        "name": "downtempo",
                         "count": 1,
-                        "name": "abstract"
+                        "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+                        "disambiguation": ""
                     },
                     {
-                        "name": "braindance",
-                        "count": 4
+                        "disambiguation": "",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "name": "electronic",
+                        "count": 3
+                    },
+                    {
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "name": "experimental",
+                        "count": 2,
+                        "disambiguation": ""
+                    },
+                    {
+                        "count": 5,
+                        "name": "idm",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "disambiguation": ""
+                    }
+                ]
+            },
+            {
+                "secondary-type-ids": [],
+                "first-release-date": "1996-08-19",
+                "secondary-types": [],
+                "id": "445f3173-a181-3f75-9411-3821447a387a",
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "primary-type": "EP",
+                "genres": [
+                    {
+                        "disambiguation": "",
+                        "count": 2,
+                        "name": "drum and bass",
+                        "id": "462f9321-6103-49c9-b6db-96219bce6f62"
+                    },
+                    {
+                        "disambiguation": "",
+                        "count": 2,
+                        "name": "electronic",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                    },
+                    {
+                        "disambiguation": "",
+                        "name": "idm",
+                        "count": 2,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9"
+                    }
+                ],
+                "disambiguation": "",
+                "title": "Girl/Boy EP",
+                "tags": [
+                    {
+                        "name": "abstract",
+                        "count": 1
+                    },
+                    {
+                        "count": 4,
+                        "name": "braindance"
                     },
                     {
                         "name": "drum and bass",
                         "count": 2
                     },
                     {
-                        "count": 2,
-                        "name": "electronic"
+                        "name": "electronic",
+                        "count": 2
                     },
                     {
-                        "name": "idm",
-                        "count": 2
+                        "count": 2,
+                        "name": "idm"
                     },
                     {
                         "count": 1,
                         "name": "luke vibert inspired"
                     }
-                ],
-                "id": "445f3173-a181-3f75-9411-3821447a387a",
-                "first-release-date": "1996-08-19",
-                "title": "Girl/Boy EP",
-                "secondary-type-ids": [],
-                "primary-type": "EP",
-                "secondary-types": [],
-                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
-                "disambiguation": "",
+                ]
+            },
+            {
                 "genres": [
                     {
-                        "name": "drum and bass",
-                        "id": "462f9321-6103-49c9-b6db-96219bce6f62",
-                        "count": 2,
-                        "disambiguation": ""
-                    },
-                    {
-                        "name": "electronic",
                         "disambiguation": "",
+                        "name": "electronic",
                         "count": 2,
                         "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
                     },
                     {
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                        "count": 2,
+                        "name": "experimental",
+                        "count": 1,
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "disambiguation": ""
+                    },
+                    {
                         "disambiguation": "",
-                        "name": "idm"
+                        "count": 1,
+                        "name": "idm",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9"
                     }
-                ]
-            },
-            {
-                "primary-type": "EP",
-                "secondary-type-ids": [],
-                "title": "Come to Daddy",
+                ],
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
                 "id": "557e1cd5-5b6a-46c1-8d5b-45a32767449d",
+                "primary-type": "EP",
+                "secondary-types": [],
+                "secondary-type-ids": [],
                 "first-release-date": "1997-10-16",
                 "tags": [
                     {
@@ -1305,123 +1231,64 @@
                         "name": "experimental"
                     },
                     {
-                        "count": 1,
-                        "name": "idm"
-                    }
-                ],
-                "genres": [
-                    {
-                        "count": 2,
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "disambiguation": "",
-                        "name": "electronic"
-                    },
-                    {
-                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
-                        "count": 1,
-                        "disambiguation": "",
-                        "name": "experimental"
-                    },
-                    {
                         "name": "idm",
-                        "count": 1,
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                        "disambiguation": ""
+                        "count": 1
                     }
                 ],
-                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
-                "disambiguation": "",
-                "secondary-types": []
+                "title": "Come to Daddy",
+                "disambiguation": ""
             },
             {
-                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
-                "disambiguation": "",
                 "secondary-types": [],
+                "first-release-date": "2001-08-01",
+                "secondary-type-ids": [],
                 "genres": [
                     {
-                        "disambiguation": "",
+                        "name": "electronic",
+                        "count": 2,
                         "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "count": 2,
-                        "name": "electronic"
+                        "disambiguation": ""
                     },
                     {
-                        "count": 2,
                         "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
-                        "disambiguation": "",
-                        "name": "experimental"
+                        "count": 2,
+                        "name": "experimental",
+                        "disambiguation": ""
                     },
                     {
                         "disambiguation": "",
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "name": "idm",
                         "count": 2,
-                        "name": "idm"
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9"
                     }
                 ],
-                "secondary-type-ids": [],
-                "first-release-date": "2001-08-01",
                 "id": "0df385d0-db24-3f94-a3c5-4b20bc49010c",
-                "title": "Drukqs 2 Track Promo",
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "primary-type": "EP",
+                "disambiguation": "",
                 "tags": [
                     {
-                        "count": 2,
-                        "name": "electronic"
+                        "name": "electronic",
+                        "count": 2
                     },
                     {
                         "name": "experimental",
                         "count": 2
                     },
                     {
-                        "count": 2,
-                        "name": "idm"
+                        "name": "idm",
+                        "count": 2
                     }
                 ],
-                "primary-type": "EP"
+                "title": "Drukqs 2 Track Promo"
             },
             {
-                "genres": [
-                    {
-                        "name": "acid techno",
-                        "disambiguation": "",
-                        "count": 2,
-                        "id": "ba64013e-27bb-4f14-a530-8d25b296e0da"
-                    },
-                    {
-                        "name": "breakbeat",
-                        "disambiguation": "",
-                        "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
-                        "count": 1
-                    },
-                    {
-                        "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
-                        "count": 1,
-                        "disambiguation": "",
-                        "name": "electro"
-                    },
-                    {
-                        "name": "electronic",
-                        "disambiguation": "",
-                        "count": 1,
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
-                    },
-                    {
-                        "name": "experimental",
-                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
-                        "count": 1,
-                        "disambiguation": ""
-                    }
-                ],
                 "disambiguation": "",
-                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
-                "secondary-types": [],
-                "primary-type": "EP",
-                "secondary-type-ids": [],
-                "id": "73a4f89b-2dd3-3889-b6ee-00f0d36c4158",
                 "title": "Analord 10",
-                "first-release-date": "2004-12",
                 "tags": [
                     {
-                        "name": "acid",
-                        "count": 3
+                        "count": 3,
+                        "name": "acid"
                     },
                     {
                         "count": 2,
@@ -1432,8 +1299,8 @@
                         "name": "breakbeat"
                     },
                     {
-                        "count": 1,
-                        "name": "electro"
+                        "name": "electro",
+                        "count": 1
                     },
                     {
                         "name": "electronic",
@@ -1443,13 +1310,20 @@
                         "count": 1,
                         "name": "experimental"
                     }
-                ]
-            },
-            {
+                ],
+                "first-release-date": "2004-12",
+                "secondary-type-ids": [],
                 "secondary-types": [],
-                "disambiguation": "",
+                "primary-type": "EP",
+                "id": "73a4f89b-2dd3-3889-b6ee-00f0d36c4158",
                 "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
                 "genres": [
+                    {
+                        "disambiguation": "",
+                        "id": "ba64013e-27bb-4f14-a530-8d25b296e0da",
+                        "name": "acid techno",
+                        "count": 2
+                    },
                     {
                         "disambiguation": "",
                         "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
@@ -1458,26 +1332,26 @@
                     },
                     {
                         "disambiguation": "",
-                        "id": "463066ef-ac54-4dae-9c83-73824c2c8432",
-                        "count": 2,
-                        "name": "electroacoustic"
+                        "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
+                        "name": "electro",
+                        "count": 1
                     },
                     {
                         "disambiguation": "",
-                        "count": 3,
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "name": "electronic"
+                        "count": 1,
+                        "name": "electronic",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
                     },
                     {
-                        "name": "idm",
-                        "disambiguation": "",
-                        "count": 2,
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9"
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 1,
+                        "name": "experimental",
+                        "disambiguation": ""
                     }
-                ],
-                "title": "Computer Controlled Acoustic Instruments, Part 2",
-                "id": "cdf3513c-f1c0-48aa-b48b-194c03c5dae9",
-                "first-release-date": "2015-01-22",
+                ]
+            },
+            {
+                "disambiguation": "",
                 "tags": [
                     {
                         "name": "breakbeat",
@@ -1488,46 +1362,49 @@
                         "count": 2
                     },
                     {
-                        "count": 3,
-                        "name": "electronic"
+                        "name": "electronic",
+                        "count": 3
                     },
                     {
                         "count": 2,
                         "name": "idm"
                     }
                 ],
+                "title": "Computer Controlled Acoustic Instruments, Part 2",
+                "secondary-types": [],
+                "first-release-date": "2015-01-22",
                 "secondary-type-ids": [],
+                "genres": [
+                    {
+                        "disambiguation": "",
+                        "name": "breakbeat",
+                        "count": 1,
+                        "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43"
+                    },
+                    {
+                        "disambiguation": "",
+                        "count": 2,
+                        "name": "electroacoustic",
+                        "id": "463066ef-ac54-4dae-9c83-73824c2c8432"
+                    },
+                    {
+                        "disambiguation": "",
+                        "name": "electronic",
+                        "count": 3,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 2,
+                        "name": "idm"
+                    }
+                ],
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "id": "cdf3513c-f1c0-48aa-b48b-194c03c5dae9",
                 "primary-type": "EP"
             },
             {
-                "genres": [
-                    {
-                        "count": 1,
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "disambiguation": "",
-                        "name": "electronic"
-                    },
-                    {
-                        "disambiguation": "",
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                        "count": 2,
-                        "name": "idm"
-                    },
-                    {
-                        "name": "techno",
-                        "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
-                        "count": 4,
-                        "disambiguation": ""
-                    }
-                ],
-                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
-                "disambiguation": "",
-                "secondary-types": [],
-                "primary-type": "EP",
-                "secondary-type-ids": [],
-                "first-release-date": "2016-07-07",
-                "id": "cb1471c0-80b3-4087-9a8b-7b0d94157168",
-                "title": "Cheetah EP",
                 "tags": [
                     {
                         "count": 1,
@@ -1538,36 +1415,46 @@
                         "name": "idm"
                     },
                     {
-                        "name": "techno",
-                        "count": 4
+                        "count": 4,
+                        "name": "techno"
                     }
-                ]
+                ],
+                "title": "Cheetah EP",
+                "disambiguation": "",
+                "genres": [
+                    {
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 1,
+                        "name": "electronic",
+                        "disambiguation": ""
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 2,
+                        "name": "idm"
+                    },
+                    {
+                        "name": "techno",
+                        "count": 4,
+                        "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+                        "disambiguation": ""
+                    }
+                ],
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "id": "cb1471c0-80b3-4087-9a8b-7b0d94157168",
+                "primary-type": "EP",
+                "secondary-types": [],
+                "first-release-date": "2016-07-07",
+                "secondary-type-ids": []
             },
             {
-                "secondary-types": [],
                 "disambiguation": "",
-                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
-                "genres": [
-                    {
-                        "name": "idm",
-                        "count": 5,
-                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                        "disambiguation": ""
-                    },
-                    {
-                        "name": "techno",
-                        "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
-                        "count": 1,
-                        "disambiguation": ""
-                    }
-                ],
-                "id": "8b54ee8d-2ac9-48b2-a06a-0282d86c8d96",
                 "title": "Collapse EP",
-                "first-release-date": "2018-09-13",
                 "tags": [
                     {
-                        "name": "idm",
-                        "count": 5
+                        "count": 5,
+                        "name": "idm"
                     },
                     {
                         "count": 1,
@@ -1575,67 +1462,54 @@
                     }
                 ],
                 "secondary-type-ids": [],
-                "primary-type": "EP"
-            },
-            {
-                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
-                "disambiguation": "",
+                "first-release-date": "2018-09-13",
                 "secondary-types": [],
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "id": "8b54ee8d-2ac9-48b2-a06a-0282d86c8d96",
+                "primary-type": "EP",
                 "genres": [
                     {
                         "disambiguation": "",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "name": "idm",
+                        "count": 5
+                    },
+                    {
+                        "disambiguation": "",
+                        "name": "techno",
                         "count": 1,
-                        "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
-                        "name": "electro"
-                    },
-                    {
-                        "name": "electronic",
-                        "disambiguation": "",
-                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
-                        "count": 2
-                    },
-                    {
-                        "name": "leftfield",
-                        "disambiguation": "",
-                        "id": "32bea60c-e201-4241-8ed4-228636d34a97",
-                        "count": 1
+                        "id": "41fe3260-fcc1-450b-bd5a-803886c56912"
                     }
-                ],
-                "secondary-type-ids": [],
-                "first-release-date": "2019-09-14",
-                "id": "28ca85c0-1265-41bf-9baf-b4691bb15fb9",
-                "title": "London 14.09.2019",
+                ]
+            },
+            {
                 "tags": [
                     {
                         "name": "electro",
                         "count": 1
                     },
                     {
-                        "count": 2,
-                        "name": "electronic"
+                        "name": "electronic",
+                        "count": 2
                     },
                     {
-                        "name": "leftfield",
-                        "count": 1
+                        "count": 1,
+                        "name": "leftfield"
                     }
                 ],
-                "primary-type": "EP"
-            },
-            {
+                "title": "London 14.09.2019",
                 "disambiguation": "",
-                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
-                "secondary-types": [],
                 "genres": [
                     {
-                        "count": 1,
-                        "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
                         "disambiguation": "",
+                        "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
+                        "count": 1,
                         "name": "electro"
                     },
                     {
-                        "name": "electronic",
                         "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
                         "count": 2,
+                        "name": "electronic",
                         "disambiguation": ""
                     },
                     {
@@ -1645,9 +1519,14 @@
                         "disambiguation": ""
                     }
                 ],
-                "secondary-type-ids": [],
-                "first-release-date": "2019-09-20",
-                "id": "9fe12142-2218-4ac3-8687-c7b4da02d826",
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "id": "28ca85c0-1265-41bf-9baf-b4691bb15fb9",
+                "primary-type": "EP",
+                "secondary-types": [],
+                "first-release-date": "2019-09-14",
+                "secondary-type-ids": []
+            },
+            {
                 "title": "Manchester 20.09.2019",
                 "tags": [
                     {
@@ -1659,138 +1538,1704 @@
                         "name": "electronic"
                     },
                     {
-                        "name": "leftfield",
-                        "count": 1
+                        "count": 1,
+                        "name": "leftfield"
                     }
                 ],
-                "primary-type": "EP"
+                "disambiguation": "",
+                "id": "9fe12142-2218-4ac3-8687-c7b4da02d826",
+                "primary-type": "EP",
+                "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                "genres": [
+                    {
+                        "disambiguation": "",
+                        "name": "electro",
+                        "count": 1,
+                        "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4"
+                    },
+                    {
+                        "disambiguation": "",
+                        "count": 2,
+                        "name": "electronic",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                    },
+                    {
+                        "id": "32bea60c-e201-4241-8ed4-228636d34a97",
+                        "name": "leftfield",
+                        "count": 1,
+                        "disambiguation": ""
+                    }
+                ],
+                "first-release-date": "2019-09-20",
+                "secondary-type-ids": [],
+                "secondary-types": []
             }
         ],
         "end-area": null,
-        "area": {
-            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
-            "name": "London",
-            "type": null,
-            "disambiguation": "Greater London",
-            "sort-name": "London",
-            "type-id": null
+        "life-span": {
+            "ended": false,
+            "end": null,
+            "begin": "1971-08-18"
         },
-        "isnis": [
-            "0000000114494679"
-        ],
-        "name": "Aphex Twin",
-        "gender": "Male",
-        "sort-name": "Aphex Twin",
+        "begin-area": {
+            "type-id": null,
+            "type": null,
+            "disambiguation": "",
+            "id": "1063266a-afe6-4fb3-ab51-0d290a79f979",
+            "name": "Limerick",
+            "sort-name": "Limerick"
+        },
         "genres": [
             {
+                "disambiguation": "",
                 "name": "acid breaks",
                 "count": 5,
-                "id": "c755b4da-de34-4d64-909a-9447833315ce",
+                "id": "c755b4da-de34-4d64-909a-9447833315ce"
+            },
+            {
+                "disambiguation": "",
+                "count": 5,
+                "name": "acid techno",
+                "id": "ba64013e-27bb-4f14-a530-8d25b296e0da"
+            },
+            {
+                "name": "ambient",
+                "count": 22,
+                "id": "608b0471-7531-4854-a348-e698c69cb699",
                 "disambiguation": ""
             },
             {
                 "disambiguation": "",
-                "count": 5,
-                "id": "ba64013e-27bb-4f14-a530-8d25b296e0da",
-                "name": "acid techno"
-            },
-            {
-                "disambiguation": "",
-                "count": 22,
-                "id": "608b0471-7531-4854-a348-e698c69cb699",
-                "name": "ambient"
-            },
-            {
+                "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
                 "name": "ambient techno",
-                "disambiguation": "",
-                "count": 14,
-                "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e"
+                "count": 14
             },
             {
+                "count": 1,
+                "name": "bleep techno",
                 "id": "43ef7823-5f16-4c9b-840d-f6b0de83a9c4",
-                "count": 1,
-                "disambiguation": "",
-                "name": "bleep techno"
+                "disambiguation": ""
             },
             {
-                "name": "breakbeat",
                 "disambiguation": "",
-                "count": 1,
-                "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43"
+                "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
+                "name": "breakbeat",
+                "count": 1
             },
             {
                 "id": "8aad8a03-be38-48e4-aa43-5ca0f826c569",
+                "name": "breakcore",
                 "count": 1,
-                "disambiguation": "",
-                "name": "breakcore"
+                "disambiguation": ""
             },
             {
-                "name": "drill and bass",
                 "id": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f",
+                "name": "drill and bass",
                 "count": 7,
                 "disambiguation": ""
             },
             {
-                "name": "electroacoustic",
-                "count": 3,
+                "disambiguation": "",
                 "id": "463066ef-ac54-4dae-9c83-73824c2c8432",
-                "disambiguation": ""
+                "count": 3,
+                "name": "electroacoustic"
             },
             {
-                "name": "electronic",
+                "disambiguation": "",
                 "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
                 "count": 30,
-                "disambiguation": ""
+                "name": "electronic"
             },
             {
-                "name": "electronica",
                 "disambiguation": "",
-                "count": 5,
-                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5"
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "name": "electronica",
+                "count": 5
             },
             {
                 "disambiguation": "",
                 "count": 18,
-                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
-                "name": "experimental"
+                "name": "experimental",
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99"
             },
             {
-                "disambiguation": "",
                 "count": 26,
+                "name": "idm",
                 "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
-                "name": "idm"
+                "disambiguation": ""
             },
             {
                 "disambiguation": "",
-                "count": 2,
                 "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+                "count": 2,
                 "name": "instrumental"
             },
             {
-                "count": 4,
                 "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
-                "disambiguation": "",
-                "name": "techno"
+                "name": "techno",
+                "count": 4,
+                "disambiguation": ""
+            }
+        ],
+        "area": {
+            "name": "London",
+            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+            "sort-name": "London",
+            "type": null,
+            "type-id": null,
+            "disambiguation": "Greater London"
+        },
+        "country": "GB",
+        "type": "Person",
+        "tags": [
+            {
+                "name": "acid breaks",
+                "count": 5
+            },
+            {
+                "name": "acid techno",
+                "count": 5
+            },
+            {
+                "count": 22,
+                "name": "ambient"
+            },
+            {
+                "name": "ambient techno",
+                "count": 14
+            },
+            {
+                "count": 1,
+                "name": "bleep techno"
+            },
+            {
+                "name": "breakbeat",
+                "count": 1
+            },
+            {
+                "count": 1,
+                "name": "breakcore"
+            },
+            {
+                "count": 3,
+                "name": "british"
+            },
+            {
+                "name": "drill and bass",
+                "count": 7
+            },
+            {
+                "name": "electroacoustic",
+                "count": 3
+            },
+            {
+                "name": "electronic",
+                "count": 30
+            },
+            {
+                "name": "electronica",
+                "count": 5
+            },
+            {
+                "name": "experimental",
+                "count": 18
+            },
+            {
+                "name": "idm",
+                "count": 26
+            },
+            {
+                "name": "instrumental",
+                "count": 2
+            },
+            {
+                "name": "progressive techno",
+                "count": 2
+            },
+            {
+                "name": "techno",
+                "count": 4
+            }
+        ],
+        "disambiguation": "",
+        "isnis": [
+            "0000000114494679"
+        ],
+        "relations": [
+            {
+                "ended": false,
+                "direction": "forward",
+                "begin": null,
+                "type": "recording contract",
+                "source-credit": "",
+                "attribute-ids": {},
+                "target-type": "label",
+                "attribute-values": {},
+                "target-credit": "",
+                "attributes": [],
+                "type-id": "b336d682-592f-4486-9f45-3d5d59895bdc",
+                "label": {
+                    "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+                    "type": "Original Production",
+                    "disambiguation": "UK independent label",
+                    "id": "46f0f4cd-8aab-4b33-b698-f459faf64190",
+                    "name": "Warp",
+                    "label-code": 2070,
+                    "sort-name": "Warp"
+                },
+                "end": null
             }
         ],
         "id": "f22942a1-6f70-4f48-866e-238cb2308fbd",
-        "begin-area": {
-            "disambiguation": "",
-            "sort-name": "Limerick",
-            "type-id": null,
-            "id": "1063266a-afe6-4fb3-ab51-0d290a79f979",
-            "name": "Limerick",
-            "type": null
-        },
-        "disambiguation": "",
+        "name": "Aphex Twin",
         "ipis": [
             "00176951139"
         ],
-        "life-span": {
-            "begin": "1971-08-18",
-            "ended": false,
-            "end": null
+        "sort-name": "Aphex Twin"
+    },
+    {
+        "id": "410c9baf-5469-44f6-9852-826524b80c61",
+        "begin-area": {
+            "name": "Rochdale",
+            "type": null,
+            "id": "e9222701-f4a5-4b99-b2e1-bdc9b63315ee",
+            "type-id": null,
+            "sort-name": "Rochdale",
+            "disambiguation": ""
         },
-        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        "disambiguation": "electronic music duo",
+        "life-span": {
+            "end": null,
+            "ended": false,
+            "begin": "1991"
+        },
+        "ipis": [],
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "tags": [
+            {
+                "name": "abstract",
+                "count": 5
+            },
+            {
+                "name": "ambient techno",
+                "count": 6
+            },
+            {
+                "count": 1,
+                "name": "avant-garde"
+            },
+            {
+                "name": "drill and bass",
+                "count": 1
+            },
+            {
+                "name": "electronic",
+                "count": 17
+            },
+            {
+                "name": "electronica",
+                "count": 2
+            },
+            {
+                "count": 14,
+                "name": "experimental"
+            },
+            {
+                "name": "experimental electronic",
+                "count": 3
+            },
+            {
+                "count": 3,
+                "name": "generative music"
+            },
+            {
+                "name": "glitch",
+                "count": 9
+            },
+            {
+                "count": 20,
+                "name": "idm"
+            },
+            {
+                "name": "instrumental",
+                "count": 1
+            },
+            {
+                "count": 4,
+                "name": "warp"
+            }
+        ],
+        "country": "GB",
+        "gender-id": null,
+        "type": "Group",
+        "relations": [
+            {
+                "target-type": "label",
+                "direction": "forward",
+                "ended": false,
+                "type": "recording contract",
+                "begin": null,
+                "attribute-ids": {},
+                "label": {
+                    "label-code": 2070,
+                    "type": "Original Production",
+                    "name": "Warp",
+                    "id": "46f0f4cd-8aab-4b33-b698-f459faf64190",
+                    "sort-name": "Warp",
+                    "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+                    "disambiguation": "UK independent label"
+                },
+                "end": null,
+                "attributes": [],
+                "source-credit": "",
+                "target-credit": "",
+                "attribute-values": {},
+                "type-id": "b336d682-592f-4486-9f45-3d5d59895bdc"
+            }
+        ],
+        "end-area": null,
+        "release-groups": [
+            {
+                "primary-type": "Album",
+                "secondary-type-ids": [],
+                "tags": [
+                    {
+                        "name": "ambient",
+                        "count": 3
+                    },
+                    {
+                        "count": 4,
+                        "name": "ambient techno"
+                    },
+                    {
+                        "count": 1,
+                        "name": "elecronica"
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 3
+                    },
+                    {
+                        "count": 8,
+                        "name": "idm"
+                    },
+                    {
+                        "name": "techno",
+                        "count": 3
+                    }
+                ],
+                "id": "700d044c-7f25-3359-8f4c-8562da105e2c",
+                "first-release-date": "1993-11-29",
+                "title": "Incunabula",
+                "genres": [
+                    {
+                        "name": "ambient",
+                        "disambiguation": "",
+                        "count": 3,
+                        "id": "608b0471-7531-4854-a348-e698c69cb699"
+                    },
+                    {
+                        "count": 4,
+                        "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
+                        "disambiguation": "",
+                        "name": "ambient techno"
+                    },
+                    {
+                        "name": "electronic",
+                        "disambiguation": "",
+                        "count": 3,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                    },
+                    {
+                        "name": "idm",
+                        "disambiguation": "",
+                        "count": 8,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9"
+                    },
+                    {
+                        "name": "techno",
+                        "disambiguation": "",
+                        "count": 3,
+                        "id": "41fe3260-fcc1-450b-bd5a-803886c56912"
+                    }
+                ],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "secondary-types": []
+            },
+            {
+                "primary-type": "Album",
+                "id": "44818c20-67ee-37d2-a8bf-d157fd99ae0b",
+                "title": "Amber",
+                "first-release-date": "1994-11-07",
+                "tags": [
+                    {
+                        "name": "abstract",
+                        "count": 3
+                    },
+                    {
+                        "name": "ambient",
+                        "count": 2
+                    },
+                    {
+                        "count": 4,
+                        "name": "ambient techno"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 5
+                    }
+                ],
+                "secondary-type-ids": [],
+                "genres": [
+                    {
+                        "count": 2,
+                        "id": "608b0471-7531-4854-a348-e698c69cb699",
+                        "disambiguation": "",
+                        "name": "ambient"
+                    },
+                    {
+                        "name": "ambient techno",
+                        "disambiguation": "",
+                        "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
+                        "count": 4
+                    },
+                    {
+                        "name": "idm",
+                        "disambiguation": "",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 5
+                    }
+                ],
+                "secondary-types": [],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+            },
+            {
+                "genres": [
+                    {
+                        "name": "ambient techno",
+                        "disambiguation": "",
+                        "count": 1,
+                        "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e"
+                    },
+                    {
+                        "count": 1,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "disambiguation": "",
+                        "name": "electronic"
+                    },
+                    {
+                        "name": "experimental",
+                        "disambiguation": "",
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 1
+                    },
+                    {
+                        "name": "idm",
+                        "disambiguation": "",
+                        "count": 5,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9"
+                    }
+                ],
+                "secondary-types": [],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type": "Album",
+                "title": "Tri Repetae",
+                "id": "8b3d1836-e3cd-35eb-a8cd-d03d56bcc6f8",
+                "first-release-date": "1995-11-06",
+                "tags": [
+                    {
+                        "name": "abstract",
+                        "count": 4
+                    },
+                    {
+                        "name": "ambient techno",
+                        "count": 1
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 1
+                    },
+                    {
+                        "name": "experimental",
+                        "count": 1
+                    },
+                    {
+                        "name": "idm",
+                        "count": 5
+                    }
+                ],
+                "secondary-type-ids": []
+            },
+            {
+                "genres": [
+                    {
+                        "name": "downtempo",
+                        "disambiguation": "",
+                        "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+                        "count": 2
+                    },
+                    {
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 4,
+                        "disambiguation": "",
+                        "name": "electronic"
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 3,
+                        "name": "experimental"
+                    },
+                    {
+                        "name": "idm",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 6,
+                        "disambiguation": ""
+                    },
+                    {
+                        "name": "industrial",
+                        "id": "060beed7-e597-4c42-8e25-5bf8bd5dd3cb",
+                        "count": 1,
+                        "disambiguation": ""
+                    },
+                    {
+                        "name": "post-industrial",
+                        "disambiguation": "",
+                        "count": 1,
+                        "id": "53ceafec-ced4-4bec-ac57-d00cbf3a0c29"
+                    }
+                ],
+                "secondary-types": [],
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "disambiguation": "",
+                "primary-type": "Album",
+                "first-release-date": "1997-02-17",
+                "id": "fe4acfe9-6d1e-3565-8857-fb16ddc492ab",
+                "title": "Chiastic Slide",
+                "tags": [
+                    {
+                        "count": 7,
+                        "name": "abstract"
+                    },
+                    {
+                        "name": "downtempo",
+                        "count": 2
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 4
+                    },
+                    {
+                        "count": 3,
+                        "name": "experimental"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 6
+                    },
+                    {
+                        "count": 1,
+                        "name": "industrial"
+                    },
+                    {
+                        "name": "post-industrial",
+                        "count": 1
+                    }
+                ],
+                "secondary-type-ids": []
+            },
+            {
+                "genres": [
+                    {
+                        "disambiguation": "",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 5,
+                        "name": "electronic"
+                    },
+                    {
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 2,
+                        "disambiguation": "",
+                        "name": "experimental"
+                    },
+                    {
+                        "name": "idm",
+                        "disambiguation": "",
+                        "count": 4,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9"
+                    }
+                ],
+                "secondary-types": [],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type": "Album",
+                "tags": [
+                    {
+                        "name": "abstract",
+                        "count": 6
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 5
+                    },
+                    {
+                        "count": 2,
+                        "name": "experimental"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 4
+                    }
+                ],
+                "first-release-date": "1998-07-13",
+                "id": "58726780-ad15-3b77-8da8-4baa681862e4",
+                "title": "LP5",
+                "secondary-type-ids": []
+            },
+            {
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "disambiguation": "",
+                "secondary-types": [],
+                "genres": [
+                    {
+                        "disambiguation": "",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 5,
+                        "name": "electronic"
+                    },
+                    {
+                        "name": "experimental",
+                        "disambiguation": "",
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 1
+                    },
+                    {
+                        "name": "glitch",
+                        "disambiguation": "",
+                        "count": 1,
+                        "id": "18b010d7-7d85-4445-a4a8-1889a4688308"
+                    },
+                    {
+                        "name": "idm",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 6,
+                        "disambiguation": ""
+                    }
+                ],
+                "secondary-type-ids": [],
+                "first-release-date": "2001-04-14",
+                "id": "b28324fc-00d4-3bc6-bc94-90218c377517",
+                "title": "Confield",
+                "tags": [
+                    {
+                        "count": 2,
+                        "name": "abstract"
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 5
+                    },
+                    {
+                        "count": 1,
+                        "name": "experimental"
+                    },
+                    {
+                        "count": 1,
+                        "name": "glitch"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 6
+                    }
+                ],
+                "primary-type": "Album"
+            },
+            {
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "secondary-types": [],
+                "genres": [
+                    {
+                        "disambiguation": "",
+                        "count": 3,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "name": "electronic"
+                    },
+                    {
+                        "name": "experimental",
+                        "count": 2,
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "disambiguation": ""
+                    },
+                    {
+                        "name": "idm",
+                        "count": 2,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "disambiguation": ""
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "32bea60c-e201-4241-8ed4-228636d34a97",
+                        "count": 4,
+                        "name": "leftfield"
+                    }
+                ],
+                "secondary-type-ids": [],
+                "id": "1a6d6f6e-2988-3272-9e29-2d7edd258015",
+                "title": "Draft 7.30",
+                "first-release-date": "2003-04-07",
+                "tags": [
+                    {
+                        "name": "abstract",
+                        "count": 3
+                    },
+                    {
+                        "name": "dance and electronica",
+                        "count": 1
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 3
+                    },
+                    {
+                        "name": "experimental",
+                        "count": 2
+                    },
+                    {
+                        "name": "idm",
+                        "count": 2
+                    },
+                    {
+                        "count": 4,
+                        "name": "leftfield"
+                    }
+                ],
+                "primary-type": "Album"
+            },
+            {
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "secondary-types": [],
+                "genres": [
+                    {
+                        "name": "electronic",
+                        "disambiguation": "",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 2
+                    },
+                    {
+                        "name": "experimental",
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 1,
+                        "disambiguation": ""
+                    },
+                    {
+                        "count": 2,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "disambiguation": "",
+                        "name": "idm"
+                    }
+                ],
+                "secondary-type-ids": [],
+                "tags": [
+                    {
+                        "count": 5,
+                        "name": "abstract"
+                    },
+                    {
+                        "count": 1,
+                        "name": "dance and electronica"
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 2
+                    },
+                    {
+                        "name": "experimental",
+                        "count": 1
+                    },
+                    {
+                        "name": "idm",
+                        "count": 2
+                    }
+                ],
+                "id": "373e0d94-bd5c-3a9b-8b36-4899b33bfcb5",
+                "title": "Untilted",
+                "first-release-date": "2005-04-09",
+                "primary-type": "Album"
+            },
+            {
+                "genres": [
+                    {
+                        "disambiguation": "",
+                        "count": 2,
+                        "id": "608b0471-7531-4854-a348-e698c69cb699",
+                        "name": "ambient"
+                    },
+                    {
+                        "disambiguation": "",
+                        "count": 1,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "name": "electronic"
+                    },
+                    {
+                        "name": "glitch",
+                        "disambiguation": "",
+                        "id": "18b010d7-7d85-4445-a4a8-1889a4688308",
+                        "count": 1
+                    }
+                ],
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "disambiguation": "",
+                "secondary-types": [],
+                "primary-type": "Album",
+                "secondary-type-ids": [],
+                "first-release-date": "2005-07",
+                "id": "e50ae22e-3baa-34b1-a4e8-f32b2a42afb8",
+                "title": "æo³ & ³hæ",
+                "tags": [
+                    {
+                        "name": "abstract",
+                        "count": 1
+                    },
+                    {
+                        "count": 2,
+                        "name": "ambient"
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 1
+                    },
+                    {
+                        "name": "glitch",
+                        "count": 1
+                    },
+                    {
+                        "name": "minimal",
+                        "count": 1
+                    }
+                ]
+            },
+            {
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "disambiguation": "",
+                "secondary-types": [],
+                "genres": [
+                    {
+                        "id": "608b0471-7531-4854-a348-e698c69cb699",
+                        "count": 1,
+                        "disambiguation": "",
+                        "name": "ambient"
+                    },
+                    {
+                        "name": "electronic",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 2,
+                        "disambiguation": ""
+                    },
+                    {
+                        "name": "experimental",
+                        "disambiguation": "",
+                        "count": 2,
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99"
+                    },
+                    {
+                        "id": "18b010d7-7d85-4445-a4a8-1889a4688308",
+                        "count": 2,
+                        "disambiguation": "",
+                        "name": "glitch"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 2,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "disambiguation": ""
+                    }
+                ],
+                "secondary-type-ids": [],
+                "id": "d2229a06-a11a-3841-a916-f5646e38db38",
+                "first-release-date": "2008-01-29",
+                "title": "Quaristice",
+                "tags": [
+                    {
+                        "name": "abstract",
+                        "count": 2
+                    },
+                    {
+                        "count": 1,
+                        "name": "ambient"
+                    },
+                    {
+                        "count": 1,
+                        "name": "dance and electronica"
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 2
+                    },
+                    {
+                        "name": "experimental",
+                        "count": 2
+                    },
+                    {
+                        "name": "glitch",
+                        "count": 2
+                    },
+                    {
+                        "count": 2,
+                        "name": "idm"
+                    }
+                ],
+                "primary-type": "Album"
+            },
+            {
+                "primary-type": "Album",
+                "secondary-type-ids": [],
+                "tags": [
+                    {
+                        "count": 2,
+                        "name": "abstract"
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 3
+                    },
+                    {
+                        "name": "electronica ambient",
+                        "count": 1
+                    },
+                    {
+                        "count": 1,
+                        "name": "electronica idm"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 1
+                    }
+                ],
+                "id": "0753990b-df72-4d31-80d0-02a3e900f067",
+                "title": "Oversteps",
+                "first-release-date": "2010-02-22",
+                "genres": [
+                    {
+                        "name": "electronic",
+                        "count": 3,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "disambiguation": ""
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 1,
+                        "name": "idm"
+                    }
+                ],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "secondary-types": []
+            },
+            {
+                "secondary-type-ids": [],
+                "tags": [
+                    {
+                        "count": 1,
+                        "name": "drone"
+                    },
+                    {
+                        "count": 1,
+                        "name": "electronic"
+                    },
+                    {
+                        "name": "experimental",
+                        "count": 1
+                    }
+                ],
+                "first-release-date": "2011-08-29",
+                "id": "e2870067-7c82-4670-87c4-ceea8071e25b",
+                "title": "ah³eo & ha³oe (ae3o3)",
+                "primary-type": "Album",
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "secondary-types": [],
+                "genres": [
+                    {
+                        "id": "75c5866f-0212-4c02-9650-de475dda157e",
+                        "count": 1,
+                        "disambiguation": "",
+                        "name": "drone"
+                    },
+                    {
+                        "count": 1,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "disambiguation": "",
+                        "name": "electronic"
+                    },
+                    {
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 1,
+                        "disambiguation": "",
+                        "name": "experimental"
+                    }
+                ]
+            },
+            {
+                "genres": [
+                    {
+                        "name": "electronic",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 2,
+                        "disambiguation": ""
+                    },
+                    {
+                        "name": "electronica",
+                        "disambiguation": "",
+                        "count": 1,
+                        "id": "53a3cea3-17af-4421-a07a-5824b540aeb5"
+                    },
+                    {
+                        "id": "18b010d7-7d85-4445-a4a8-1889a4688308",
+                        "count": 2,
+                        "disambiguation": "",
+                        "name": "glitch"
+                    },
+                    {
+                        "count": 2,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "disambiguation": "",
+                        "name": "idm"
+                    }
+                ],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "secondary-types": [],
+                "primary-type": "Album",
+                "secondary-type-ids": [],
+                "tags": [
+                    {
+                        "name": "electronic",
+                        "count": 2
+                    },
+                    {
+                        "count": 1,
+                        "name": "electronica"
+                    },
+                    {
+                        "count": 2,
+                        "name": "glitch"
+                    },
+                    {
+                        "count": 2,
+                        "name": "idm"
+                    }
+                ],
+                "first-release-date": "2013-02-07",
+                "id": "69b828dd-1cd2-42f1-9ba1-68f392c1a523",
+                "title": "Exai"
+            },
+            {
+                "primary-type": "Album",
+                "id": "35bf47a9-cb4e-435f-930d-e2f62acde5e7",
+                "first-release-date": "2016-05-19",
+                "title": "elseq 1–5",
+                "tags": [
+                    {
+                        "count": 2,
+                        "name": "electronic"
+                    },
+                    {
+                        "count": 1,
+                        "name": "experimental"
+                    },
+                    {
+                        "name": "glitch",
+                        "count": 1
+                    },
+                    {
+                        "name": "idm",
+                        "count": 2
+                    }
+                ],
+                "secondary-type-ids": [],
+                "genres": [
+                    {
+                        "name": "electronic",
+                        "count": 2,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "disambiguation": ""
+                    },
+                    {
+                        "name": "experimental",
+                        "disambiguation": "",
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 1
+                    },
+                    {
+                        "name": "glitch",
+                        "disambiguation": "",
+                        "count": 1,
+                        "id": "18b010d7-7d85-4445-a4a8-1889a4688308"
+                    },
+                    {
+                        "count": 2,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "disambiguation": "",
+                        "name": "idm"
+                    }
+                ],
+                "secondary-types": [],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+            },
+            {
+                "genres": [
+                    {
+                        "count": 1,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "disambiguation": "",
+                        "name": "electronic"
+                    },
+                    {
+                        "count": 1,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "disambiguation": "",
+                        "name": "idm"
+                    }
+                ],
+                "secondary-types": [],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type": "Album",
+                "tags": [
+                    {
+                        "count": 1,
+                        "name": "electronic"
+                    },
+                    {
+                        "count": 1,
+                        "name": "idm"
+                    }
+                ],
+                "first-release-date": "2018-04-05",
+                "id": "29ff4c6d-ddfc-47f0-9b6b-e923270858dc",
+                "title": "NTS Session 1",
+                "secondary-type-ids": []
+            },
+            {
+                "tags": [
+                    {
+                        "count": 1,
+                        "name": "electronic"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 1
+                    }
+                ],
+                "id": "cd818d7b-cb7c-44b8-ac15-561eb39dca10",
+                "first-release-date": "2018-04-12",
+                "title": "NTS Session 2",
+                "secondary-type-ids": [],
+                "primary-type": "Album",
+                "secondary-types": [],
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "disambiguation": "",
+                "genres": [
+                    {
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 1,
+                        "disambiguation": "",
+                        "name": "electronic"
+                    },
+                    {
+                        "disambiguation": "",
+                        "count": 1,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "name": "idm"
+                    }
+                ]
+            },
+            {
+                "secondary-types": [],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "genres": [
+                    {
+                        "count": 1,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "disambiguation": "",
+                        "name": "electronic"
+                    },
+                    {
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 1,
+                        "disambiguation": "",
+                        "name": "experimental"
+                    },
+                    {
+                        "name": "idm",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 1,
+                        "disambiguation": ""
+                    }
+                ],
+                "id": "87b8ab3b-8107-4f97-aadc-b765f726dcf3",
+                "title": "NTS Session 3",
+                "first-release-date": "2018-04-19",
+                "tags": [
+                    {
+                        "name": "electronic",
+                        "count": 1
+                    },
+                    {
+                        "count": 1,
+                        "name": "experimental"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 1
+                    }
+                ],
+                "secondary-type-ids": [],
+                "primary-type": "Album"
+            },
+            {
+                "primary-type": "Album",
+                "secondary-type-ids": [],
+                "id": "1416a923-437e-4370-916c-92ada05c4bbd",
+                "first-release-date": "2018-04-26",
+                "title": "NTS Session 4",
+                "tags": [
+                    {
+                        "count": 1,
+                        "name": "electronic"
+                    },
+                    {
+                        "count": 1,
+                        "name": "experimental"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 1
+                    }
+                ],
+                "genres": [
+                    {
+                        "name": "electronic",
+                        "disambiguation": "",
+                        "count": 1,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                    },
+                    {
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 1,
+                        "disambiguation": "",
+                        "name": "experimental"
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 1,
+                        "name": "idm"
+                    }
+                ],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "secondary-types": []
+            },
+            {
+                "primary-type": "Album",
+                "tags": [
+                    {
+                        "count": 4,
+                        "name": "electronic"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 4
+                    }
+                ],
+                "first-release-date": "2020-10-16",
+                "id": "e436019a-a22d-45af-a396-66cc9c38460c",
+                "title": "SIGN",
+                "secondary-type-ids": [],
+                "genres": [
+                    {
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 4,
+                        "disambiguation": "",
+                        "name": "electronic"
+                    },
+                    {
+                        "disambiguation": "",
+                        "count": 4,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "name": "idm"
+                    }
+                ],
+                "secondary-types": [],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+            },
+            {
+                "primary-type": "Album",
+                "id": "59aa7b1e-f731-46c4-a3cf-91ec699ad80e",
+                "title": "PLUS",
+                "first-release-date": "2020-10-28",
+                "tags": [
+                    {
+                        "name": "electronic",
+                        "count": 3
+                    },
+                    {
+                        "name": "idm",
+                        "count": 2
+                    }
+                ],
+                "secondary-type-ids": [],
+                "genres": [
+                    {
+                        "name": "electronic",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 3,
+                        "disambiguation": ""
+                    },
+                    {
+                        "count": 2,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "disambiguation": "",
+                        "name": "idm"
+                    }
+                ],
+                "secondary-types": [],
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "disambiguation": ""
+            },
+            {
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "disambiguation": "",
+                "genres": [
+                    {
+                        "id": "608b0471-7531-4854-a348-e698c69cb699",
+                        "count": 3,
+                        "disambiguation": "",
+                        "name": "ambient"
+                    },
+                    {
+                        "name": "electronic",
+                        "disambiguation": "",
+                        "count": 3,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 3,
+                        "name": "experimental"
+                    },
+                    {
+                        "name": "idm",
+                        "disambiguation": "",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 2
+                    }
+                ],
+                "tags": [
+                    {
+                        "name": "abstract",
+                        "count": 1
+                    },
+                    {
+                        "name": "ambient",
+                        "count": 3
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 3
+                    },
+                    {
+                        "count": 3,
+                        "name": "experimental"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 2
+                    }
+                ],
+                "title": "Warp Peel Sessions, Vol 1",
+                "id": "abbd84f3-bfc6-3bea-920a-6db1f98da7c3",
+                "first-release-date": "1999-04-21",
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ],
+                "primary-type": "Album"
+            },
+            {
+                "genres": [
+                    {
+                        "name": "ambient",
+                        "id": "608b0471-7531-4854-a348-e698c69cb699",
+                        "count": 1,
+                        "disambiguation": ""
+                    },
+                    {
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 1,
+                        "disambiguation": "",
+                        "name": "electronic"
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "18b010d7-7d85-4445-a4a8-1889a4688308",
+                        "count": 1,
+                        "name": "glitch"
+                    },
+                    {
+                        "name": "idm",
+                        "count": 1,
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "disambiguation": ""
+                    }
+                ],
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "primary-type": "Album",
+                "tags": [
+                    {
+                        "name": "ambient",
+                        "count": 1
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 1
+                    },
+                    {
+                        "name": "glitch",
+                        "count": 1
+                    },
+                    {
+                        "name": "idm",
+                        "count": 1
+                    }
+                ],
+                "id": "bbd3412a-5a70-4286-889f-557bb59f2e40",
+                "title": "EPs 1991–2002",
+                "first-release-date": "2011-02-14",
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            {
+                "primary-type": "Album",
+                "tags": [
+                    {
+                        "name": "ambient",
+                        "count": 1
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 1
+                    },
+                    {
+                        "name": "idm",
+                        "count": 1
+                    }
+                ],
+                "id": "3c1c8882-3ec5-482c-a1e0-c20508ff9e50",
+                "first-release-date": "2018-04-26",
+                "title": "NTS Sessions 1–4",
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ],
+                "genres": [
+                    {
+                        "id": "608b0471-7531-4854-a348-e698c69cb699",
+                        "count": 1,
+                        "disambiguation": "",
+                        "name": "ambient"
+                    },
+                    {
+                        "name": "electronic",
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "count": 1,
+                        "disambiguation": ""
+                    },
+                    {
+                        "disambiguation": "",
+                        "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                        "count": 1,
+                        "name": "idm"
+                    }
+                ],
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "disambiguation": ""
+            },
+            {
+                "genres": [
+                    {
+                        "name": "ambient",
+                        "disambiguation": "",
+                        "id": "608b0471-7531-4854-a348-e698c69cb699",
+                        "count": 1
+                    },
+                    {
+                        "id": "75c5866f-0212-4c02-9650-de475dda157e",
+                        "count": 1,
+                        "disambiguation": "",
+                        "name": "drone"
+                    },
+                    {
+                        "disambiguation": "",
+                        "count": 1,
+                        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                        "name": "electronic"
+                    },
+                    {
+                        "name": "experimental",
+                        "disambiguation": "",
+                        "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                        "count": 1
+                    }
+                ],
+                "secondary-types": [
+                    "Compilation"
+                ],
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "disambiguation": "",
+                "primary-type": "Album",
+                "tags": [
+                    {
+                        "count": 1,
+                        "name": "ambient"
+                    },
+                    {
+                        "count": 1,
+                        "name": "drone"
+                    },
+                    {
+                        "name": "electronic",
+                        "count": 1
+                    },
+                    {
+                        "name": "experimental",
+                        "count": 1
+                    }
+                ],
+                "first-release-date": "2021-04",
+                "id": "f0252dab-9784-4ae1-9d39-eb0cfec8472e",
+                "title": "³oæh",
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                ]
+            },
+            {
+                "genres": [],
+                "disambiguation": "",
+                "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                "secondary-types": [
+                    "Compilation",
+                    "Live"
+                ],
+                "primary-type": "Album",
+                "secondary-type-ids": [
+                    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                    "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+                ],
+                "tags": [],
+                "id": "8d61a0d4-00d9-4487-aa56-c734031db68b",
+                "first-release-date": "2020-04-07",
+                "title": "AE_LIVE 2016/2018"
+            }
+        ],
+        "area": {
+            "type-id": null,
+            "sort-name": "England",
+            "disambiguation": "",
+            "name": "England",
+            "type": null,
+            "iso-3166-2-codes": [
+                "GB-ENG"
+            ],
+            "id": "9d5dd675-3cf4-4296-9e39-67865ebee758"
+        },
+        "isnis": [
+            "000000011512141X"
+        ],
+        "name": "Autechre",
+        "gender": null,
+        "sort-name": "Autechre",
+        "genres": [
+            {
+                "name": "ambient techno",
+                "disambiguation": "",
+                "count": 6,
+                "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e"
+            },
+            {
+                "name": "avant-garde",
+                "count": 1,
+                "id": "b1c0c2ad-e5ae-4bb6-a1be-d66e195fd2d7",
+                "disambiguation": ""
+            },
+            {
+                "name": "drill and bass",
+                "disambiguation": "",
+                "count": 1,
+                "id": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f"
+            },
+            {
+                "disambiguation": "",
+                "count": 17,
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                "name": "electronic"
+            },
+            {
+                "count": 2,
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "disambiguation": "",
+                "name": "electronica"
+            },
+            {
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "count": 14,
+                "disambiguation": "",
+                "name": "experimental"
+            },
+            {
+                "name": "experimental electronic",
+                "disambiguation": "",
+                "id": "3832a068-e169-40cb-9638-d0b04342f3a3",
+                "count": 3
+            },
+            {
+                "name": "glitch",
+                "disambiguation": "",
+                "id": "18b010d7-7d85-4445-a4a8-1889a4688308",
+                "count": 9
+            },
+            {
+                "count": 20,
+                "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+                "disambiguation": "",
+                "name": "idm"
+            },
+            {
+                "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+                "count": 1,
+                "disambiguation": "",
+                "name": "instrumental"
+            }
+        ]
     }
 ]

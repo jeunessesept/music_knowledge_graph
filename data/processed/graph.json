@@ -1,10 +1,245 @@
 {
-    "nodes": [
+    "nodes": {
+        "artists": {
+            "f22942a1-6f70-4f48-866e-238cb2308fbd": {
+                "name": "Aphex Twin",
+                "country": "GB",
+                "type": "Person"
+            },
+            "410c9baf-5469-44f6-9852-826524b80c61": {
+                "name": "Autechre",
+                "country": "GB",
+                "type": "Group"
+            }
+        },
+        "genres": {
+            "c755b4da-de34-4d64-909a-9447833315ce": {
+                "name": "acid breaks",
+                "count": 5
+            },
+            "ba64013e-27bb-4f14-a530-8d25b296e0da": {
+                "name": "acid techno",
+                "count": 5
+            },
+            "608b0471-7531-4854-a348-e698c69cb699": {
+                "name": "ambient",
+                "count": 22
+            },
+            "1c6e4eae-915d-4662-a7ff-038920b67d9e": {
+                "name": "ambient techno",
+                "count": 14
+            },
+            "43ef7823-5f16-4c9b-840d-f6b0de83a9c4": {
+                "name": "bleep techno",
+                "count": 1
+            },
+            "3b8f3f65-6caa-47c8-b076-fa59dfb69c43": {
+                "name": "breakbeat",
+                "count": 1
+            },
+            "8aad8a03-be38-48e4-aa43-5ca0f826c569": {
+                "name": "breakcore",
+                "count": 1
+            },
+            "6732427a-0d04-4a15-b9e5-b4b5b9532f8f": {
+                "name": "drill and bass",
+                "count": 7
+            },
+            "463066ef-ac54-4dae-9c83-73824c2c8432": {
+                "name": "electroacoustic",
+                "count": 3
+            },
+            "89255676-1f14-4dd8-bbad-fca839d6aff4": {
+                "name": "electronic",
+                "count": 30
+            },
+            "53a3cea3-17af-4421-a07a-5824b540aeb5": {
+                "name": "electronica",
+                "count": 5
+            },
+            "68c81274-5770-4e7b-a4bf-ab0d7d425d99": {
+                "name": "experimental",
+                "count": 18
+            },
+            "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9": {
+                "name": "idm",
+                "count": 26
+            },
+            "4ae63770-68af-4fae-b0f1-5e53f372c743": {
+                "name": "instrumental",
+                "count": 2
+            },
+            "41fe3260-fcc1-450b-bd5a-803886c56912": {
+                "name": "techno",
+                "count": 4
+            },
+            "b1c0c2ad-e5ae-4bb6-a1be-d66e195fd2d7": {
+                "name": "avant-garde",
+                "count": 1
+            },
+            "3832a068-e169-40cb-9638-d0b04342f3a3": {
+                "name": "experimental electronic",
+                "count": 3
+            },
+            "18b010d7-7d85-4445-a4a8-1889a4688308": {
+                "name": "glitch",
+                "count": 9
+            }
+        },
+        "labels": {},
+        "release_groups": {},
+        "areas": {}
+    },
+    "edges": [
         {
-            "id": "f22942a1-6f70-4f48-866e-238cb2308fbd",
-            "type": "artist",
-            "name": "Aphex Twin"
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "c755b4da-de34-4d64-909a-9447833315ce",
+            "type": "HAS_GENRE",
+            "weight": 5
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "ba64013e-27bb-4f14-a530-8d25b296e0da",
+            "type": "HAS_GENRE",
+            "weight": 5
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "608b0471-7531-4854-a348-e698c69cb699",
+            "type": "HAS_GENRE",
+            "weight": 22
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
+            "type": "HAS_GENRE",
+            "weight": 14
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "43ef7823-5f16-4c9b-840d-f6b0de83a9c4",
+            "type": "HAS_GENRE",
+            "weight": 1
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
+            "type": "HAS_GENRE",
+            "weight": 1
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "8aad8a03-be38-48e4-aa43-5ca0f826c569",
+            "type": "HAS_GENRE",
+            "weight": 1
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f",
+            "type": "HAS_GENRE",
+            "weight": 7
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "463066ef-ac54-4dae-9c83-73824c2c8432",
+            "type": "HAS_GENRE",
+            "weight": 3
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "type": "HAS_GENRE",
+            "weight": 30
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "type": "HAS_GENRE",
+            "weight": 5
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "type": "HAS_GENRE",
+            "weight": 18
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+            "type": "HAS_GENRE",
+            "weight": 26
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+            "type": "HAS_GENRE",
+            "weight": 2
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "target": "41fe3260-fcc1-450b-bd5a-803886c56912",
+            "type": "HAS_GENRE",
+            "weight": 4
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "target": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
+            "type": "HAS_GENRE",
+            "weight": 6
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "target": "b1c0c2ad-e5ae-4bb6-a1be-d66e195fd2d7",
+            "type": "HAS_GENRE",
+            "weight": 1
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "target": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f",
+            "type": "HAS_GENRE",
+            "weight": 1
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "target": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "type": "HAS_GENRE",
+            "weight": 17
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "target": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "type": "HAS_GENRE",
+            "weight": 2
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "target": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "type": "HAS_GENRE",
+            "weight": 14
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "target": "3832a068-e169-40cb-9638-d0b04342f3a3",
+            "type": "HAS_GENRE",
+            "weight": 3
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "target": "18b010d7-7d85-4445-a4a8-1889a4688308",
+            "type": "HAS_GENRE",
+            "weight": 9
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "target": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+            "type": "HAS_GENRE",
+            "weight": 20
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "target": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+            "type": "HAS_GENRE",
+            "weight": 1
         }
-    ],
-    "edges": []
+    ]
 }
