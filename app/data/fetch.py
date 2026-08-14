@@ -17,22 +17,27 @@ def fetch_artist(mbid: str) -> dict:
     url = f"{BASE_URL}/artist/{mbid}"
     params = {
         "fmt": "json",
-        'inc' :"genres"
+        'inc' : "genres+tags+label-rels+release-groups"
     }
     headers = {
         "User-Agent": "music-knowledge-graph/1.0"
     }
 
-    response = requests.get(
-        url,
-        params=params,
-        headers=headers,
-        timeout=10
-    )
+    for attempt in range(3):
+        response = requests.get(
+            url,
+            params=params,
+            headers=headers,
+            timeout=10,
+        )
 
-    response.raise_for_status()  # Raise an error for bad responses
+        if response.status_code == 503:
+            time.sleep(2)
+            continue
 
-    return response.json()
+        response.raise_for_status()
+        return response.json()  # Return the JSON data if the request was successful
+    raise Exception("Failed to fetch artist data after 3 attempts.")
 
 
 def search_artist(name: str) -> str:
@@ -96,3 +101,32 @@ artists = fetch_artists(artist_names)
 with open("data/raw/artists.json", "w", encoding="utf-8") as f:
     json.dump(artists, f, ensure_ascii=False, indent=4)
 
+
+def fetch_release(release_id: str) -> dict:
+    url = f"{BASE_URL}/release/{release_id}"
+
+    params = {
+        "fmt": "json",
+        "inc": "release-groups"
+    }
+
+    headers = {
+        "User-Agent": "music-knowledge-graph/1.0"
+    }
+
+    response = requests.get(
+        url,
+        params=params,
+        headers=headers,
+        timeout=10
+    )
+
+    response.raise_for_status()
+
+    return response.json()
+
+release = fetch_release(
+    "91b48d23-7a5e-47d8-8484-cd06d54224ce"
+)
+
+print(release)
