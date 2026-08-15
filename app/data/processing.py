@@ -28,12 +28,21 @@ def add_node(graph, category, id, data):
     if id not in graph["nodes"][category]:
         graph["nodes"][category][id] = data
 
-
-def add_edge(graph, source, target, relation, weight=None):
+def add_edge(
+    graph,
+    source,
+    source_type,
+    target,
+    target_type,
+    relation,
+    weight=None
+):
 
     edge = {
         "source": source,
+        "source_type": source_type,
         "target": target,
+        "target_type": target_type,
         "type": relation
     }
 
@@ -42,7 +51,6 @@ def add_edge(graph, source, target, relation, weight=None):
 
     if edge not in graph["edges"]:
         graph["edges"].append(edge)
-
 
 
 def transform_artists(artists):
@@ -82,9 +90,38 @@ def transform_artists(artists):
             add_edge(
                 graph,
                 artist_id,
+                "artist",
                 genre_id,
+                "genre",
                 "HAS_GENRE",
                 genre.get("count")
+            )
+
+        # Release groups
+
+        for release_group in artist.get("release-groups", []):
+
+            release_id = release_group["id"]
+
+            add_node(
+                graph,
+                "release_groups",
+                release_id,
+                {
+                    "title": release_group["title"],
+                    "type": release_group.get("primary-type"),
+                    "date": release_group.get("first-release-date")
+                }
+            )
+
+
+            add_edge(
+                graph,
+                artist_id,
+                "artist",
+                release_id,
+                "release_group",
+                "RELEASED"
             )
 
 

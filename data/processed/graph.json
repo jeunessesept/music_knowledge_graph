@@ -87,159 +87,810 @@
             }
         },
         "labels": {},
-        "release_groups": {},
+        "release_groups": {
+            "6842c81d-ea77-3dfd-abf7-4323add3f4d4": {
+                "title": "Selected Ambient Works 85–92",
+                "type": "Album",
+                "date": "1992-11-01"
+            },
+            "0e7a233f-81f8-3e63-ad07-6cdfe2faecc3": {
+                "title": "Selected Ambient Works, Volume II",
+                "type": "Album",
+                "date": "1994-03-07"
+            },
+            "79c6d3be-251c-3644-b07e-09d738e15a84": {
+                "title": "…I Care Because You Do",
+                "type": "Album",
+                "date": "1995-04-24"
+            },
+            "84d79dbe-7ac1-3ebc-9b36-238ddfb8229c": {
+                "title": "Richard D. James Album",
+                "type": "Album",
+                "date": "1996-11-04"
+            },
+            "87f1a316-510f-36c3-9f2c-38230b0e56e0": {
+                "title": "Drukqs",
+                "type": "Album",
+                "date": "2001-10-22"
+            },
+            "11a7c281-a260-4f77-a1d5-1ff2d4c917eb": {
+                "title": "Syro",
+                "type": "Album",
+                "date": "2014-09-19"
+            },
+            "f1c51bbf-407e-3f1c-85a1-aa44a432048f": {
+                "title": "Classics",
+                "type": "Album",
+                "date": "1994-12"
+            },
+            "56380efe-da91-3508-bbe3-18b01fedee3a": {
+                "title": "51/13 Aphex Singles Collection",
+                "type": "Album",
+                "date": "1996-11-30"
+            },
+            "ddf19b2d-1e43-4829-90bc-fb10039e9e3e": {
+                "title": "Aphex Mt. Fuji 2017",
+                "type": "Album",
+                "date": "2017-07-29"
+            },
+            "d980dcd3-02c6-4230-ba21-85ce6f4b872f": {
+                "title": "Bristol 02.09.23",
+                "type": "Album",
+                "date": "2023-09-02"
+            },
+            "d2ebf885-87e0-4add-abc6-726d1a4a1d5a": {
+                "title": "Music From the Merch Desk (2016 – 2023)",
+                "type": "Album",
+                "date": "2024-12-17"
+            },
+            "6ca8f556-be81-38a1-be3c-a5b41c24c107": {
+                "title": "26 Mixes for Cash",
+                "type": "Album",
+                "date": "2003-03-19"
+            },
+            "119f30e7-ee99-3186-adb6-daf1f4ca0b3f": {
+                "title": "Digeridoo",
+                "type": "EP",
+                "date": "1992-01"
+            },
+            "506727ce-f8fe-3430-a4be-3553cfe1a0af": {
+                "title": "Xylem Tube EP",
+                "type": "EP",
+                "date": "1992-06-01"
+            },
+            "b1c01b4b-2548-3dee-9fa4-8d7907eee131": {
+                "title": "On",
+                "type": "EP",
+                "date": "1993-11-15"
+            },
+            "44758512-d6d1-398e-b8b1-11aa66d2bfdb": {
+                "title": "Ventolin E.P",
+                "type": "EP",
+                "date": "1995-03-27"
+            },
+            "445f3173-a181-3f75-9411-3821447a387a": {
+                "title": "Girl/Boy EP",
+                "type": "EP",
+                "date": "1996-08-19"
+            },
+            "557e1cd5-5b6a-46c1-8d5b-45a32767449d": {
+                "title": "Come to Daddy",
+                "type": "EP",
+                "date": "1997-10-16"
+            },
+            "0df385d0-db24-3f94-a3c5-4b20bc49010c": {
+                "title": "Drukqs 2 Track Promo",
+                "type": "EP",
+                "date": "2001-08-01"
+            },
+            "73a4f89b-2dd3-3889-b6ee-00f0d36c4158": {
+                "title": "Analord 10",
+                "type": "EP",
+                "date": "2004-12"
+            },
+            "cdf3513c-f1c0-48aa-b48b-194c03c5dae9": {
+                "title": "Computer Controlled Acoustic Instruments, Part 2",
+                "type": "EP",
+                "date": "2015-01-22"
+            },
+            "cb1471c0-80b3-4087-9a8b-7b0d94157168": {
+                "title": "Cheetah EP",
+                "type": "EP",
+                "date": "2016-07-07"
+            },
+            "8b54ee8d-2ac9-48b2-a06a-0282d86c8d96": {
+                "title": "Collapse EP",
+                "type": "EP",
+                "date": "2018-09-13"
+            },
+            "28ca85c0-1265-41bf-9baf-b4691bb15fb9": {
+                "title": "London 14.09.2019",
+                "type": "EP",
+                "date": "2019-09-14"
+            },
+            "9fe12142-2218-4ac3-8687-c7b4da02d826": {
+                "title": "Manchester 20.09.2019",
+                "type": "EP",
+                "date": "2019-09-20"
+            },
+            "700d044c-7f25-3359-8f4c-8562da105e2c": {
+                "title": "Incunabula",
+                "type": "Album",
+                "date": "1993-11-29"
+            },
+            "44818c20-67ee-37d2-a8bf-d157fd99ae0b": {
+                "title": "Amber",
+                "type": "Album",
+                "date": "1994-11-07"
+            },
+            "8b3d1836-e3cd-35eb-a8cd-d03d56bcc6f8": {
+                "title": "Tri Repetae",
+                "type": "Album",
+                "date": "1995-11-06"
+            },
+            "fe4acfe9-6d1e-3565-8857-fb16ddc492ab": {
+                "title": "Chiastic Slide",
+                "type": "Album",
+                "date": "1997-02-17"
+            },
+            "58726780-ad15-3b77-8da8-4baa681862e4": {
+                "title": "LP5",
+                "type": "Album",
+                "date": "1998-07-13"
+            },
+            "b28324fc-00d4-3bc6-bc94-90218c377517": {
+                "title": "Confield",
+                "type": "Album",
+                "date": "2001-04-14"
+            },
+            "1a6d6f6e-2988-3272-9e29-2d7edd258015": {
+                "title": "Draft 7.30",
+                "type": "Album",
+                "date": "2003-04-07"
+            },
+            "373e0d94-bd5c-3a9b-8b36-4899b33bfcb5": {
+                "title": "Untilted",
+                "type": "Album",
+                "date": "2005-04-09"
+            },
+            "e50ae22e-3baa-34b1-a4e8-f32b2a42afb8": {
+                "title": "æo³ & ³hæ",
+                "type": "Album",
+                "date": "2005-07"
+            },
+            "d2229a06-a11a-3841-a916-f5646e38db38": {
+                "title": "Quaristice",
+                "type": "Album",
+                "date": "2008-01-29"
+            },
+            "0753990b-df72-4d31-80d0-02a3e900f067": {
+                "title": "Oversteps",
+                "type": "Album",
+                "date": "2010-02-22"
+            },
+            "e2870067-7c82-4670-87c4-ceea8071e25b": {
+                "title": "ah³eo & ha³oe (ae3o3)",
+                "type": "Album",
+                "date": "2011-08-29"
+            },
+            "69b828dd-1cd2-42f1-9ba1-68f392c1a523": {
+                "title": "Exai",
+                "type": "Album",
+                "date": "2013-02-07"
+            },
+            "35bf47a9-cb4e-435f-930d-e2f62acde5e7": {
+                "title": "elseq 1–5",
+                "type": "Album",
+                "date": "2016-05-19"
+            },
+            "29ff4c6d-ddfc-47f0-9b6b-e923270858dc": {
+                "title": "NTS Session 1",
+                "type": "Album",
+                "date": "2018-04-05"
+            },
+            "cd818d7b-cb7c-44b8-ac15-561eb39dca10": {
+                "title": "NTS Session 2",
+                "type": "Album",
+                "date": "2018-04-12"
+            },
+            "87b8ab3b-8107-4f97-aadc-b765f726dcf3": {
+                "title": "NTS Session 3",
+                "type": "Album",
+                "date": "2018-04-19"
+            },
+            "1416a923-437e-4370-916c-92ada05c4bbd": {
+                "title": "NTS Session 4",
+                "type": "Album",
+                "date": "2018-04-26"
+            },
+            "e436019a-a22d-45af-a396-66cc9c38460c": {
+                "title": "SIGN",
+                "type": "Album",
+                "date": "2020-10-16"
+            },
+            "59aa7b1e-f731-46c4-a3cf-91ec699ad80e": {
+                "title": "PLUS",
+                "type": "Album",
+                "date": "2020-10-28"
+            },
+            "abbd84f3-bfc6-3bea-920a-6db1f98da7c3": {
+                "title": "Warp Peel Sessions, Vol 1",
+                "type": "Album",
+                "date": "1999-04-21"
+            },
+            "bbd3412a-5a70-4286-889f-557bb59f2e40": {
+                "title": "EPs 1991–2002",
+                "type": "Album",
+                "date": "2011-02-14"
+            },
+            "3c1c8882-3ec5-482c-a1e0-c20508ff9e50": {
+                "title": "NTS Sessions 1–4",
+                "type": "Album",
+                "date": "2018-04-26"
+            },
+            "f0252dab-9784-4ae1-9d39-eb0cfec8472e": {
+                "title": "³oæh",
+                "type": "Album",
+                "date": "2021-04"
+            },
+            "8d61a0d4-00d9-4487-aa56-c734031db68b": {
+                "title": "AE_LIVE 2016/2018",
+                "type": "Album",
+                "date": "2020-04-07"
+            }
+        },
         "areas": {}
     },
     "edges": [
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "c755b4da-de34-4d64-909a-9447833315ce",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 5
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "ba64013e-27bb-4f14-a530-8d25b296e0da",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 5
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "608b0471-7531-4854-a348-e698c69cb699",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 22
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 14
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "43ef7823-5f16-4c9b-840d-f6b0de83a9c4",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 1
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 1
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "8aad8a03-be38-48e4-aa43-5ca0f826c569",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 1
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 7
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "463066ef-ac54-4dae-9c83-73824c2c8432",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 3
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 30
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 5
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 18
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 26
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 2
         },
         {
             "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
             "target": "41fe3260-fcc1-450b-bd5a-803886c56912",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 4
         },
         {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "6842c81d-ea77-3dfd-abf7-4323add3f4d4",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "0e7a233f-81f8-3e63-ad07-6cdfe2faecc3",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "79c6d3be-251c-3644-b07e-09d738e15a84",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "84d79dbe-7ac1-3ebc-9b36-238ddfb8229c",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "87f1a316-510f-36c3-9f2c-38230b0e56e0",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "11a7c281-a260-4f77-a1d5-1ff2d4c917eb",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "f1c51bbf-407e-3f1c-85a1-aa44a432048f",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "56380efe-da91-3508-bbe3-18b01fedee3a",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "ddf19b2d-1e43-4829-90bc-fb10039e9e3e",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "d980dcd3-02c6-4230-ba21-85ce6f4b872f",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "d2ebf885-87e0-4add-abc6-726d1a4a1d5a",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "6ca8f556-be81-38a1-be3c-a5b41c24c107",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "119f30e7-ee99-3186-adb6-daf1f4ca0b3f",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "506727ce-f8fe-3430-a4be-3553cfe1a0af",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "b1c01b4b-2548-3dee-9fa4-8d7907eee131",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "44758512-d6d1-398e-b8b1-11aa66d2bfdb",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "445f3173-a181-3f75-9411-3821447a387a",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "557e1cd5-5b6a-46c1-8d5b-45a32767449d",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "0df385d0-db24-3f94-a3c5-4b20bc49010c",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "73a4f89b-2dd3-3889-b6ee-00f0d36c4158",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "cdf3513c-f1c0-48aa-b48b-194c03c5dae9",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "cb1471c0-80b3-4087-9a8b-7b0d94157168",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "8b54ee8d-2ac9-48b2-a06a-0282d86c8d96",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "28ca85c0-1265-41bf-9baf-b4691bb15fb9",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "9fe12142-2218-4ac3-8687-c7b4da02d826",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
             "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
             "target": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 6
         },
         {
             "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
             "target": "b1c0c2ad-e5ae-4bb6-a1be-d66e195fd2d7",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 1
         },
         {
             "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
             "target": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 1
         },
         {
             "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
             "target": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 17
         },
         {
             "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
             "target": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 2
         },
         {
             "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
             "target": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 14
         },
         {
             "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
             "target": "3832a068-e169-40cb-9638-d0b04342f3a3",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 3
         },
         {
             "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
             "target": "18b010d7-7d85-4445-a4a8-1889a4688308",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 9
         },
         {
             "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
             "target": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 20
         },
         {
             "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
             "target": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+            "target_type": "genre",
             "type": "HAS_GENRE",
             "weight": 1
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "700d044c-7f25-3359-8f4c-8562da105e2c",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "44818c20-67ee-37d2-a8bf-d157fd99ae0b",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "8b3d1836-e3cd-35eb-a8cd-d03d56bcc6f8",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "fe4acfe9-6d1e-3565-8857-fb16ddc492ab",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "58726780-ad15-3b77-8da8-4baa681862e4",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "b28324fc-00d4-3bc6-bc94-90218c377517",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "1a6d6f6e-2988-3272-9e29-2d7edd258015",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "373e0d94-bd5c-3a9b-8b36-4899b33bfcb5",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "e50ae22e-3baa-34b1-a4e8-f32b2a42afb8",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "d2229a06-a11a-3841-a916-f5646e38db38",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "0753990b-df72-4d31-80d0-02a3e900f067",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "e2870067-7c82-4670-87c4-ceea8071e25b",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "69b828dd-1cd2-42f1-9ba1-68f392c1a523",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "35bf47a9-cb4e-435f-930d-e2f62acde5e7",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "29ff4c6d-ddfc-47f0-9b6b-e923270858dc",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "cd818d7b-cb7c-44b8-ac15-561eb39dca10",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "87b8ab3b-8107-4f97-aadc-b765f726dcf3",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "1416a923-437e-4370-916c-92ada05c4bbd",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "e436019a-a22d-45af-a396-66cc9c38460c",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "59aa7b1e-f731-46c4-a3cf-91ec699ad80e",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "abbd84f3-bfc6-3bea-920a-6db1f98da7c3",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "bbd3412a-5a70-4286-889f-557bb59f2e40",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "3c1c8882-3ec5-482c-a1e0-c20508ff9e50",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "f0252dab-9784-4ae1-9d39-eb0cfec8472e",
+            "target_type": "release_group",
+            "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "8d61a0d4-00d9-4487-aa56-c734031db68b",
+            "target_type": "release_group",
+            "type": "RELEASED"
         }
     ]
 }
