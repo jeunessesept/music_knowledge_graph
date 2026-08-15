@@ -124,6 +124,39 @@ def transform_artists(artists):
                 "RELEASED"
             )
 
+        ## Label relations 
+
+        for relation in artist.get("relations", []):
+
+            if relation.get("target-type") != "label":
+                continue
+
+            label = relation.get("label")
+
+            if not label:
+                continue
+
+            label_id = label["id"]
+
+            add_node(
+                graph,
+                "labels",
+                label_id,
+                {
+                    "name": label["name"],
+                    "type": label.get("type"),
+                    "label_code": label.get("label-code")
+                }
+            )
+
+            add_edge(
+                graph,
+                artist_id,
+                "artist",
+                label_id,
+                "label",
+                relation["type"]
+            )
 
     return graph
 

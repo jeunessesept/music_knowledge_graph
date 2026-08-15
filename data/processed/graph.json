@@ -86,7 +86,13 @@
                 "count": 9
             }
         },
-        "labels": {},
+        "labels": {
+            "46f0f4cd-8aab-4b33-b698-f459faf64190": {
+                "name": "Warp",
+                "type": "Original Production",
+                "label_code": 2070
+            }
+        },
         "release_groups": {
             "6842c81d-ea77-3dfd-abf7-4323add3f4d4": {
                 "title": "Selected Ambient Works 85–92",
@@ -638,6 +644,13 @@
             "type": "RELEASED"
         },
         {
+            "source": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+            "source_type": "artist",
+            "target": "46f0f4cd-8aab-4b33-b698-f459faf64190",
+            "target_type": "label",
+            "type": "recording contract"
+        },
+        {
             "source": "410c9baf-5469-44f6-9852-826524b80c61",
             "source_type": "artist",
             "target": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
@@ -891,6 +904,13 @@
             "target": "8d61a0d4-00d9-4487-aa56-c734031db68b",
             "target_type": "release_group",
             "type": "RELEASED"
+        },
+        {
+            "source": "410c9baf-5469-44f6-9852-826524b80c61",
+            "source_type": "artist",
+            "target": "46f0f4cd-8aab-4b33-b698-f459faf64190",
+            "target_type": "label",
+            "type": "recording contract"
         }
     ]
 }
