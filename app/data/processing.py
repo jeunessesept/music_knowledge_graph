@@ -2,14 +2,18 @@ import json
 from pathlib import Path
 
 
-RAW_FILE = Path("data/raw/artists.json")
+RAW_ARTISTS_FILE = Path("data/raw/artists.json")
+RAW_RELEASES_FILE = Path("data/raw/releases.json")
 OUTPUT_FILE = Path("data/processed/graph.json")
 
 
 def load_artists():
-    with open(RAW_FILE, "r") as file:
+    with open(RAW_ARTISTS_FILE, "r") as file:
         return json.load(file)
 
+def load_releases():
+    with open(RAW_RELEASES_FILE, "r") as file:
+        return json.load(file)
 
 def create_graph():
     return {
@@ -18,6 +22,7 @@ def create_graph():
             "genres": {},
             "labels": {},
             "release_groups": {},
+            "releases": {},
             "areas": {}
         },
         "edges": []
@@ -161,6 +166,69 @@ def transform_artists(artists):
     return graph
 
 
+def add_releases_to_graph(graph, releases):
+
+    for release in releases:
+
+        release_id = release["id"]
+        release_group = release.get("release-group")
+
+        if not release_group:
+            continue    
+
+        release_group_id = release_group["id"]
+
+        add_node(
+            graph,
+            "releases",
+            release_id,
+            {
+                "title": release["title"],
+                "date": release.get("date"),
+                "country": release.get("country"),
+            }
+        )
+
+        add_edge(
+            graph,
+            release_group_id,
+            "release_group",
+            release_id,
+            "release",
+            "HAS_RELEASE"
+        )
+
+        for label_info in release.get("label-info", []):
+
+            label = label_info.get("label")
+
+            if not label:
+                continue
+
+            label_id = label["id"]
+
+            add_node(
+                graph,
+                "labels",
+                label_id,
+                {
+                    "name": label["name"],
+                    "type": label.get("type"),
+                    "label_code": label.get("label-code")
+                }
+            )
+
+            add_edge(
+                graph,
+                release_id,
+                "release",
+                label_id,
+                "label",
+                "RELEASED_BY"
+            )
+
+    
+
 
 def save_graph(graph):
 
@@ -180,8 +248,10 @@ def save_graph(graph):
 if __name__ == "__main__":
 
     artists = load_artists()
+    releases = load_releases()
 
     graph = transform_artists(artists)
+    add_releases_to_graph(graph, releases)
 
     save_graph(graph)
 

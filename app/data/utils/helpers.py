@@ -3,6 +3,7 @@ NODE_TYPES = {
     "genre": "genres",
     "label": "labels",
     "release_group": "release_groups",
+    "release": "releases",
     "area": "areas"
 }
 
